@@ -1,0 +1,682 @@
+[
+    {
+        "address": "  Phố Núi Trúc, Phường Kim Mã, Quận Ba Đình, Hà Nội",
+        "facade": 8.0,
+        "direction": null,
+        "age": null,
+        "area": 82.0,
+        "bedroom": "3",
+        "bathroom": null,
+        "floors": 4,
+        "house_type": null,
+        "price": 15.2,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "address": "  Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 70.0,
+        "bedroom": "7",
+        "bathroom": null,
+        "floors": 7,
+        "house_type": null,
+        "price": 2.3,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "address": "  Phố Khương Thượng, Phường Ngã Tư Sở, Quận Đống Đa, Hà Nội",
+        "facade": 3.5,
+        "direction": null,
+        "age": null,
+        "area": 39.0,
+        "bedroom": "3",
+        "bathroom": null,
+        "floors": 5,
+        "house_type": null,
+        "price": 4.7,
+        "additional_info": {
+            "street_size": [
+                2.5
+            ]
+        }
+    },
+    {
+        "address": "  Đường Nam Đuống, Phường Thượng Thanh, Quận Long Biên, Hà Nội",
+        "facade": 6.0,
+        "direction": null,
+        "age": null,
+        "area": 200.0,
+        "bedroom": "6",
+        "bathroom": null,
+        "floors": 6,
+        "house_type": null,
+        "price": 5.0,
+        "additional_info": {
+            "street_size": [
+                22.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Nguyễn Chí Thanh, Phường Láng Hạ, Quận Đống Đa, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 60.0,
+        "bedroom": "5",
+        "bathroom": null,
+        "floors": 5,
+        "house_type": null,
+        "price": 5.0,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Nguyễn Khang, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 90.0,
+        "bedroom": "5",
+        "bathroom": null,
+        "floors": 5,
+        "house_type": null,
+        "price": 1.65,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "address": "  Phố Nguyên Hồng, Phường Láng Hạ, Quận Đống Đa, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 86.0,
+        "bedroom": "7",
+        "bathroom": null,
+        "floors": 7,
+        "house_type": null,
+        "price": 18.0,
+        "additional_info": {
+            "street_size": [
+                11.0
+            ]
+        }
+    },
+    {
+        "address": "  Hà Nội Đường Quốc lộ 32, Thị trấn Trạm Trôi, Huyện Hoài Đức, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 145.0,
+        "bedroom": "---",
+        "bathroom": null,
+        "floors": null,
+        "house_type": null,
+        "price": 8.5,
+        "additional_info": {
+            "street_size": [
+                13.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Cầu Giấy, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",
+        "facade": 4.5,
+        "direction": null,
+        "age": null,
+        "area": 62.0,
+        "bedroom": "4",
+        "bathroom": null,
+        "floors": 4,
+        "house_type": null,
+        "price": 11.5,
+        "additional_info": {
+            "street_size": [
+                8.0
+            ]
+        }
+    },
+    {
+        "address": "  Hà Nội Đường Ngọc Lâm, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",
+        "facade": 5.4,
+        "direction": null,
+        "age": null,
+        "area": 42.0,
+        "bedroom": "4",
+        "bathroom": null,
+        "floors": 4,
+        "house_type": null,
+        "price": 4.05,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Nguyễn Khang, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 68.0,
+        "bedroom": "4",
+        "bathroom": null,
+        "floors": 7,
+        "house_type": null,
+        "price": 12.6,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Lê Trọng Tấn, Phường Dương Nội, Quận Hà Đông, Hà Nội",
+        "facade": 4.0,
+        "direction": "Đông Nam",
+        "age": null,
+        "area": 31.0,
+        "bedroom": "3",
+        "bathroom": null,
+        "floors": 3,
+        "house_type": null,
+        "price": 1.5,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Trần Khát Chân, Phường Đống Mác, Quận Hai Bà Trưng, Hà Nội",
+        "facade": 7.5,
+        "direction": null,
+        "age": null,
+        "area": 98.0,
+        "bedroom": "2",
+        "bathroom": null,
+        "floors": 2,
+        "house_type": null,
+        "price": 20.0,
+        "additional_info": {
+            "street_size": [
+                20.0
+            ]
+        }
+    },
+    {
+        "address": "  Phố Xã Đàn, Phường Trung Phụng, Quận Đống Đa, Hà Nội",
+        "facade": 8.0,
+        "direction": null,
+        "age": null,
+        "area": 60.0,
+        "bedroom": "5",
+        "bathroom": null,
+        "floors": 6,
+        "house_type": null,
+        "price": 29.0,
+        "additional_info": {
+            "street_size": [
+                8.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 105.0,
+        "bedroom": "---",
+        "bathroom": null,
+        "floors": null,
+        "house_type": null,
+        "price": 33.0,
+        "additional_info": {
+            "street_size": [
+                24.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Nam Đuống, Phường Thượng Thanh, Quận Long Biên, Hà Nội",
+        "facade": 5.5,
+        "direction": null,
+        "age": null,
+        "area": 74.0,
+        "bedroom": "6",
+        "bathroom": null,
+        "floors": 4,
+        "house_type": null,
+        "price": 4.5,
+        "additional_info": {
+            "street_size": [
+                18.0
+            ]
+        }
+    },
+    {
+        "address": "  XX Phố Hàng Dầu, Phường Lý Thái Tổ, Quận Hoàn Kiếm, Hà Nội",
+        "facade": 4.4,
+        "direction": null,
+        "age": null,
+        "area": 111.0,
+        "bedroom": "6",
+        "bathroom": null,
+        "floors": 4,
+        "house_type": null,
+        "price": 110.0,
+        "additional_info": {
+            "street_size": [
+                20.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Cầu Giấy, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",
+        "facade": 11.0,
+        "direction": null,
+        "age": null,
+        "area": 130.0,
+        "bedroom": "35",
+        "bathroom": null,
+        "floors": 8,
+        "house_type": null,
+        "price": 16.0,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "address": "  Phố Huỳnh Thúc Kháng, Phường Láng Hạ, Quận Đống Đa, Hà Nội",
+        "facade": 6.6,
+        "direction": null,
+        "age": null,
+        "area": 71.0,
+        "bedroom": "7",
+        "bathroom": null,
+        "floors": 7,
+        "house_type": null,
+        "price": 36.8,
+        "additional_info": {
+            "street_size": [
+                20.0
+            ]
+        }
+    },
+    {
+        "address": "  Phố Chùa Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",
+        "facade": 3.9,
+        "direction": null,
+        "age": null,
+        "area": 40.0,
+        "bedroom": "4",
+        "bathroom": null,
+        "floors": 4,
+        "house_type": null,
+        "price": 4.3,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "address": "  Tỉnh lộ 420, Xã Bình Yên, Huyện Thạch Thất, Hà Nội",
+        "facade": 6.0,
+        "direction": null,
+        "age": null,
+        "area": 74.0,
+        "bedroom": "---",
+        "bathroom": null,
+        "floors": null,
+        "house_type": null,
+        "price": 1.0,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "address": "  22 Đường Cầu Giấy, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 48.0,
+        "bedroom": "4",
+        "bathroom": null,
+        "floors": 4,
+        "house_type": null,
+        "price": 5.1,
+        "additional_info": {
+            "street_size": [
+                3.5
+            ]
+        }
+    },
+    {
+        "address": "  Đường Nam Đuống, Phường Thượng Thanh, Quận Long Biên, Hà Nội",
+        "facade": 6.0,
+        "direction": null,
+        "age": null,
+        "area": 200.0,
+        "bedroom": "6",
+        "bathroom": null,
+        "floors": 6,
+        "house_type": null,
+        "price": 5.0,
+        "additional_info": {
+            "street_size": [
+                22.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Nguyễn Văn Cừ, Phường Gia Thụy, Quận Long Biên, Hà Nội",
+        "facade": 4.2,
+        "direction": null,
+        "age": null,
+        "area": 56.0,
+        "bedroom": "5",
+        "bathroom": null,
+        "floors": 5,
+        "house_type": null,
+        "price": 15.9,
+        "additional_info": {
+            "street_size": [
+                20.0
+            ]
+        }
+    },
+    {
+        "address": "  Hoàng Mai, Hà Nội. Đường Âu Cơ, Phường Nhật Tân, Quận Tây Hồ, Hà Nội",
+        "facade": 12.0,
+        "direction": null,
+        "age": null,
+        "area": 200.0,
+        "bedroom": "8",
+        "bathroom": null,
+        "floors": 9,
+        "house_type": null,
+        "price": 60.0,
+        "additional_info": {
+            "street_size": [
+                36.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Đê Trần Khát Chân, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",
+        "facade": 5.2,
+        "direction": null,
+        "age": null,
+        "area": 60.0,
+        "bedroom": "1",
+        "bathroom": null,
+        "floors": 5,
+        "house_type": null,
+        "price": 8.0,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "address": "  Tây Hồ, Hà Nội. Phố Trần Phú, Phường Ngọc Hà, Quận Ba Đình, Hà Nội",
+        "facade": 8.0,
+        "direction": null,
+        "age": null,
+        "area": 150.0,
+        "bedroom": "8",
+        "bathroom": null,
+        "floors": 9,
+        "house_type": null,
+        "price": 70.0,
+        "additional_info": {
+            "street_size": [
+                45.0
+            ]
+        }
+    },
+    {
+        "address": "  Tây Hồ, Hà Nội. Đường Tố Hữu, Phường Dương Nội, Quận Hà Đông, Hà Nội",
+        "facade": 16.0,
+        "direction": null,
+        "age": null,
+        "area": 400.0,
+        "bedroom": "8",
+        "bathroom": null,
+        "floors": 8,
+        "house_type": null,
+        "price": 135.0,
+        "additional_info": {
+            "street_size": [
+                18.0
+            ]
+        }
+    },
+    {
+        "address": "  Ba Đình, Hà Nội. Phố Hàng Phèn, Phường Hàng Bồ, Quận Hoàn Kiếm, Hà Nội",
+        "facade": 7.0,
+        "direction": null,
+        "age": null,
+        "area": 100.0,
+        "bedroom": "18",
+        "bathroom": null,
+        "floors": 7,
+        "house_type": null,
+        "price": 60.0,
+        "additional_info": {
+            "street_size": [
+                27.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Tam Trinh, Phường Yên Sở, Quận Hoàng Mai, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 60.0,
+        "bedroom": "6",
+        "bathroom": null,
+        "floors": 5,
+        "house_type": null,
+        "price": 6.2,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "address": "  Đống Đa, Hà Nội. Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 80.0,
+        "bedroom": "8",
+        "bathroom": null,
+        "floors": 8,
+        "house_type": null,
+        "price": 45.0,
+        "additional_info": {
+            "street_size": [
+                45.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Nguyễn Văn Cừ, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",
+        "facade": 4.5,
+        "direction": null,
+        "age": null,
+        "area": 127.0,
+        "bedroom": "3",
+        "bathroom": null,
+        "floors": 3,
+        "house_type": null,
+        "price": 14.5,
+        "additional_info": {
+            "street_size": [
+                20.0
+            ]
+        }
+    },
+    {
+        "address": "  Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 38.0,
+        "bedroom": "4",
+        "bathroom": null,
+        "floors": 4,
+        "house_type": null,
+        "price": 3.75,
+        "additional_info": {
+            "street_size": [
+                2.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Láng Thượng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",
+        "facade": 3.6,
+        "direction": null,
+        "age": null,
+        "area": 62.0,
+        "bedroom": "4",
+        "bathroom": null,
+        "floors": 4,
+        "house_type": null,
+        "price": 9.5,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Ngọc Lâm, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",
+        "facade": 6.5,
+        "direction": null,
+        "age": null,
+        "area": 120.0,
+        "bedroom": "5",
+        "bathroom": null,
+        "floors": 5,
+        "house_type": null,
+        "price": 14.5,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "address": "  Phố Đội cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội",
+        "facade": 15.0,
+        "direction": null,
+        "age": null,
+        "area": 370.0,
+        "bedroom": "18",
+        "bathroom": null,
+        "floors": 9,
+        "house_type": null,
+        "price": 60.0,
+        "additional_info": {
+            "street_size": [
+                36.0
+            ]
+        }
+    },
+    {
+        "address": "  Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",
+        "facade": 3.5,
+        "direction": null,
+        "age": null,
+        "area": 35.0,
+        "bedroom": "7",
+        "bathroom": null,
+        "floors": 5,
+        "house_type": null,
+        "price": 8.8,
+        "additional_info": {
+            "street_size": [
+                15.0
+            ]
+        }
+    },
+    {
+        "address": "  Đường Thiên Hiền, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 120.0,
+        "bedroom": "26",
+        "bathroom": null,
+        "floors": 7,
+        "house_type": null,
+        "price": 12.0,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "address": "  Phố Liễu Giai, Phường Liễu Giai, Quận Ba Đình, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 68.0,
+        "bedroom": "4",
+        "bathroom": null,
+        "floors": 3,
+        "house_type": null,
+        "price": 12.8,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "address": "  Nguyễn Xiển, Thanh Xuân, Hà Nội. Đường Nguyễn Xiển, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",
+        "facade": 7.0,
+        "direction": null,
+        "age": null,
+        "area": 130.0,
+        "bedroom": "6",
+        "bathroom": null,
+        "floors": 7,
+        "house_type": null,
+        "price": 35.0,
+        "additional_info": {
+            "street_size": [
+                45.0
+            ]
+        }
+    }
+]

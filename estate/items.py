@@ -4,17 +4,27 @@
 # https://docs.scrapy.org/en/latest/topics/items.html
 
 import scrapy
-from scrapy.loader.processors import Join
+from dataclasses import dataclass, field
+from typing import Optional
 
 
-class EstateItem(scrapy.Item):
-    address = scrapy.Field()
-    facade = scrapy.Field()
-    direction = scrapy.Field()
-    age = scrapy.Field()
-    area = scrapy.Field()
-    bedroom = scrapy.Field()
-    bathroom = scrapy.Field()
-    floors = scrapy.Field()
-    house_type = scrapy.Field()
-    price = scrapy.Field()
+@dataclass
+class AdditionalInfo():
+    street_size: Optional[float] = field(default=None)
+
+
+@dataclass
+class EstateItem():
+    url: str
+    address: Optional[str] = field(default=None)
+    facade: Optional[float] = field(default=None)
+    direction: Optional[str] = field(default=None)
+    age: Optional[int] = field(default=None)
+    area: Optional[float] = field(default=None)
+    bedroom: Optional[int] = field(default=None)
+    bathroom: Optional[int] = field(default=None)
+    floors: Optional[int] = field(default=None)
+    house_type: Optional[str] = field(default=None)
+    price: Optional[float] = field(default=None)
+    additional_info: Optional[AdditionalInfo] = field(default=None)
+    # additional_info = scrapy.Field(serializer=AdditionalInfo)
