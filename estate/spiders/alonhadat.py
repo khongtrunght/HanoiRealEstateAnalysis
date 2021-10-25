@@ -10,7 +10,7 @@ class AlonhadatSpider(scrapy.Spider):
     allowed_domains = ['alonhadat.com.vn']
     start_urls = [
         'http://alonhadat.com.vn/nha-dat/can-ban/nha-dat/1/ha-noi.html'] + [f"http://alonhadat.com.vn/nha-dat/can-ban/nha-dat/1/ha-noi/trang--{i}.html" for i in range(
-            2, 5)]
+            2, 40)]
 
     def parse(self, response):
         estates = response.css('div.content-item')
@@ -25,7 +25,8 @@ class AlonhadatSpider(scrapy.Spider):
         estate_loader = AlonhadatLoader(
             item=response.meta['item'], response=response)
         estate_loader.add_css('address', "div.address>span.value::text")
-        estate_loader.add_css('price', "span.price>span.value::text")
+        estate_loader.add_value(
+            'price', response.css("span.price>span.value::text").extract_first())
         estate_loader.add_css('area', "span.square>span.value::text")
         estate_loader.add_xpath('bedroom', '//tr[5]/td[4]/text()')
         estate_loader.add_xpath('facade', '//tr[4]/td[2]/text()')

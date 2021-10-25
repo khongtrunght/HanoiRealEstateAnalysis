@@ -10,6 +10,13 @@ def take_first_string(string):
         return string
 
 
+def check_none(string):
+    if string in (',m', '_', "---"):
+        return None
+    else:
+        return string
+
+
 def float_process(string):
     return float(string.replace(",", "."))
 
@@ -32,20 +39,30 @@ def facade_process(string):
         return string[:-1]
 
 
+def bedroom_process(string):
+    if string == "---":
+        return None
+    else:
+        return string
+
+
 class AlonhadatLoader(ItemLoader):
     default_item_class = EstateItem
     default_input_processor = MapCompose(lambda s: s.strip())
     default_output_processor = TakeFirst()
 
-    facade_in = MapCompose(facade_process, float_process)
+    facade_in = MapCompose(check_none, facade_process, float_process)
 
-    direction_in = MapCompose(direction_process)
+    direction_in = MapCompose(check_none, direction_process)
 
-    price_in = MapCompose(take_first_string, float_process)
+    price_in = Identity()  # MapCompose(price_process)
+    price_out = TakeFirst()
 
     floors_in = MapCompose(take_first_string, int_process)
 
     area_in = MapCompose(take_first_string, float_process)
+
+    bedroom_in = MapCompose(check_none, bedroom_process, int_process)
 
     additional_info_in = Identity()
 
@@ -53,10 +70,13 @@ class AlonhadatLoader(ItemLoader):
 
 
 def street_process(string):
-    return string[:-1]
+    if string == '---':
+        return None
+    else:
+        return float_process(string[:-1])
 
 
 class AdditionalLoader(ItemLoader):
     default_item_class = AdditionalInfo
 
-    street_size_in = MapCompose(street_process, float_process)
+    street_size_in = MapCompose(street_process)
