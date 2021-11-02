@@ -66,9 +66,9 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-# ITEM_PIPELINES = {
-#    'estate.pipelines.EstatePipeline': 300,
-# }
+ITEM_PIPELINES = {
+    'estate.pipelines.EstatePipeline': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
@@ -99,3 +99,4 @@ SELENIUM_DRIVER_ARGUMENTS = []  # ['--headless']
 DOWNLOADER_MIDDLEWARES = {
     'scrapy_selenium.SeleniumMiddleware': 800
 }
+FEED_EXPORT_ENCODING = 'utf-8'
