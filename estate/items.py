@@ -26,5 +26,6 @@ class EstateItem():
     floors: Optional[int] = field(default=None)
     house_type: Optional[str] = field(default=None)
     price: Optional[float] = field(default=None)
-    additional_info: Optional[AdditionalInfo] = field(default=None)
+    # additional_info: Optional[AdditionalInfo] = field(default=None)
+    street_size: Optional[float] = field(default=None)
     # additional_info = scrapy.Field(serializer=AdditionalInfo)

@@ -11,18 +11,24 @@ def take_first_string(string):
 
 
 def check_none(string):
-    if string in (',m', '_', "---"):
+    if string in (',m', '_', "---", ''):
         return None
     else:
         return string
 
 
 def float_process(string):
-    return float(string.replace(",", "."))
+    try:
+        return float(string.replace(",", "."))
+    except ValueError:
+        return string
 
 
 def int_process(string):
-    return int(string)
+    try:
+        return int(string)
+    except ValueError:
+        return string
 
 
 def direction_process(string):
@@ -44,6 +50,13 @@ def bedroom_process(string):
         return None
     else:
         return string
+
+def street_process(string):
+    if string == '---':
+        return None
+    else:
+        return float_process(string[:-1])
+
 
 
 class AlonhadatLoader(ItemLoader):
@@ -68,12 +81,9 @@ class AlonhadatLoader(ItemLoader):
 
     address_out = Join()
 
+    street_size_in = MapCompose(street_process)
 
-def street_process(string):
-    if string == '---':
-        return None
-    else:
-        return float_process(string[:-1])
+
 
 
 class AdditionalLoader(ItemLoader):

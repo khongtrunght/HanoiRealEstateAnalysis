@@ -17,7 +17,7 @@ class EstatePipeline:
         if estate.get('price'):
             if isinstance(estate['price'], str):
                 # unit trieu/ m2
-                if 'triệu /\xa0m' in estate['price']:
+                if ('triệu /\xa0m' in estate['price']) or ('triệu/m²' in estate['price']):
                     if estate.get('area'):
                         estate['price'] = estate['area'] * \
                             price_process(estate['price']) * 10**-3

@@ -8,9 +8,9 @@ try:
         [
             'scrapy',
             'crawl',
-            'alonhadat',
+            'batdongsan',
             '-o',
-            'out.csv',
+            'test_cross.csv',
         ]
     )
 except SystemExit:

@@ -1,5 +1,5 @@
 from shutil import which
-from estate.utils import get_random_agent
+# from estate.utils import get_random_agent
 # Scrapy settings for estate project
 #
 # For simplicity, this file contains only settings considered important or
@@ -93,7 +93,7 @@ ROBOTSTXT_OBEY = True
 
 
 SELENIUM_DRIVER_NAME = 'chrome'
-SELENIUM_DRIVER_EXECUTABLE_PATH = which('chromedriver')
+SELENIUM_DRIVER_EXECUTABLE_PATH = 'D:\OneDrive - Hanoi University of Science and Technology\HUST\CLASS\\20211\DataScience\Project\Test_alonhadat\chromedriver.exe' #which('chromedriver')
 SELENIUM_DRIVER_ARGUMENTS = []  # ['--headless']
 
 DOWNLOADER_MIDDLEWARES = {
