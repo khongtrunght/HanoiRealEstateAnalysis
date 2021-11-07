@@ -10,7 +10,7 @@ try:
             'crawl',
             'alonhadat',
             '-o',
-            'out.csv',
+            'alo_nha_dat.csv',
         ]
     )
 except SystemExit:

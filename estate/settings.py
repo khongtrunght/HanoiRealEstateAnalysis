@@ -1,3 +1,5 @@
+from shutil import which
+# from estate.utils import get_random_agent
 # Scrapy settings for estate project
 #
 # For simplicity, this file contains only settings considered important or
@@ -15,6 +17,7 @@ NEWSPIDER_MODULE = 'estate.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'estate (+http://www.yourdomain.com)'
+# USER_AGENT = get_random_agent()
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -31,7 +34,7 @@ ROBOTSTXT_OBEY = True
 #CONCURRENT_REQUESTS_PER_IP = 16
 
 # Disable cookies (enabled by default)
-#COOKIES_ENABLED = False
+# COOKIES_ENABLED = True
 
 # Disable Telnet Console (enabled by default)
 #TELNETCONSOLE_ENABLED = False
@@ -51,7 +54,8 @@ ROBOTSTXT_OBEY = True
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 # DOWNLOADER_MIDDLEWARES = {
-#    'estate.middlewares.EstateDownloaderMiddleware': 543,
+#     #    'estate.middlewares.EstateDownloaderMiddleware': 543,
+#     'scrapy_cloudflare_middleware.middlewares.CloudFlareMiddleware': 560,
 # }
 
 # Enable or disable extensions
@@ -62,9 +66,9 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-    'estate.pipelines.EstatePipeline': 300,
-}
+# ITEM_PIPELINES = {
+#     'estate.pipelines.EstatePipeline': 300,
+# }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
@@ -86,5 +90,7 @@ ITEM_PIPELINES = {
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+
 
 FEED_EXPORT_ENCODING = 'utf-8'
