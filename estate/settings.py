@@ -92,11 +92,5 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 
-SELENIUM_DRIVER_NAME = 'chrome'
-SELENIUM_DRIVER_EXECUTABLE_PATH = 'D:\OneDrive - Hanoi University of Science and Technology\HUST\CLASS\\20211\DataScience\Project\Test_alonhadat\chromedriver.exe' #which('chromedriver')
-SELENIUM_DRIVER_ARGUMENTS = []  # ['--headless']
 
-DOWNLOADER_MIDDLEWARES = {
-    'scrapy_selenium.SeleniumMiddleware': 800
-}
 FEED_EXPORT_ENCODING = 'utf-8'

@@ -10,12 +10,19 @@ from estate.loaders.batdongsanLoader import BatdongsanLoader
 class BatdongsanSpider(scrapy.Spider):
     name = 'batdongsan'
     allowed_domains = ['batdongsan.com.vn']
-    start_urls = [f'https://batdongsan.com.vn/nha-dat-ban-ha-noi/p{x}' for x in range(1,5)]
+    start_urls = [f'https://batdongsan.com.vn/nha-dat-ban-ha-noi/p{x}' for x in range(1, 5)]
 
     custom_settings = {
-        "ITEM_PIPELINES" : {
-            'estate.pipelines.EstatePipeline': 300,
-        }
+        "ITEM_PIPELINES": {
+            'estate.pipelines.EstatePipeline': 300
+        },
+        "SELENIUM_DRIVER_NAME": 'chrome',
+        "SELENIUM_DRIVER_EXECUTABLE_PATH": 'D:\OneDrive - Hanoi University of Science and Technology\HUST\CLASS\\20211\DataScience\Project\Test_alonhadat\chromedriver.exe',
+        "SELENIUM_DRIVER_ARGUMENTS": [],  # ['--headless']
+
+        "DOWNLOADER_MIDDLEWARES": {
+            'scrapy_selenium.SeleniumMiddleware': 800
+        },
     }
 
     name_dict = {

@@ -10,7 +10,14 @@ class AlonhadatSpider(scrapy.Spider):
     allowed_domains = ['alonhadat.com.vn']
     start_urls = [
         'http://alonhadat.com.vn/nha-dat/can-ban/nha-dat/1/ha-noi.html'] + [f"http://alonhadat.com.vn/nha-dat/can-ban/nha-dat/1/ha-noi/trang--{i}.html" for i in range(
-            2, 40)]
+            2, 12452)]
+
+    custom_settings = {
+        "ITEM_PIPELINES": {
+            'estate.pipelines.EstatePipeline': 30
+        },
+    }
+
 
     def parse(self, response):
         estates = response.css('div.content-item')
@@ -32,10 +39,6 @@ class AlonhadatSpider(scrapy.Spider):
         estate_loader.add_xpath('facade', '//tr[4]/td[2]/text()')
         estate_loader.add_xpath('direction', '//tr[1]/td[4]/text()')
         estate_loader.add_xpath('house_type', '//tr[3]/td[2]/text()')
-        estate_loader.add_value('additional_info', self.get_addition(response))
+        estate_loader.add_xpath('street_size', '//tr[2]/td[4]/text()')
         yield estate_loader.load_item()
 
-    def get_addition(self, response):
-        additional_info = AdditionalLoader(selector=Selector(response))
-        additional_info.add_xpath('street_size', '//tr[2]/td[4]/text()')
-        return additional_info.load_item()
