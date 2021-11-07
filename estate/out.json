@@ -1,0 +1,3430 @@
+[
+    {
+        "url": "https://alonhadat.com.vn/chinh-chu-to-ban-toa-nha-so-42-ngo-68-cau-giay-100m2-6-tang-thang-may-30-ty-canh-quan-uy-9237315.html",
+        "address": " Đường Cầu Giấy, Quận Cầu Giấy, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 100.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà mặt tiền",
+        "price": 30.0,
+        "additional_info": {
+            "street_size": [
+                10.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/chinh-chu-can-ban-toa-nha-building-van-phong-79-duong-le-duc-tho-110m2-x-9t-mat-tien-7m--9233766.html",
+        "address": " Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",
+        "facade": 7.0,
+        "direction": null,
+        "age": null,
+        "area": 110.0,
+        "bedroom": 7,
+        "bathroom": null,
+        "floors": 9,
+        "house_type": "Nhà mặt tiền",
+        "price": 32.0,
+        "additional_info": {
+            "street_size": [
+                1.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/chu-thien-chi-ban-gap-nha-mat-pho-o-thai-ha-kinh-doanh-dinh-35m2-8-8-ty-co-thuong-luong-9223471.html",
+        "address": " Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",
+        "facade": 3.5,
+        "direction": null,
+        "age": null,
+        "area": 35.0,
+        "bedroom": 7,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 8.8,
+        "additional_info": {
+            "street_size": [
+                15.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/chinh-chu-can-ban-160m2-dat-duong-nguyen-van-huyen-mat-tien-7-5m-gia-38-ty--9233829.html",
+        "address": " Đường Nguyễn Văn Huyên, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",
+        "facade": 7.5,
+        "direction": null,
+        "age": null,
+        "area": 160.0,
+        "bedroom": 2,
+        "bathroom": null,
+        "floors": 1,
+        "house_type": "Nhà mặt tiền",
+        "price": " 38 ngàn ",
+        "additional_info": {
+            "street_size": [
+                1.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-3-tang-so-do-chinh-chu-moi-xay-chi-1-1-ty-tai-trung-tam-thanh-pho-moi-ha-dong-3233915.html",
+        "address": " Đường Lê Trọng Tấn, Phường Dương Nội, Quận Hà Đông, Hà Nội",
+        "facade": 4.0,
+        "direction": "Đông Nam",
+        "age": null,
+        "area": 31.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 3,
+        "house_type": "Nhà trong hẻm",
+        "price": 1.4,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-phan-lo-van-phuc-via-he-oto-tranh-2-thoang-54m-mt5m-chi-14-25-ty-9233746.html",
+        "address": " Phố Vạn Phúc, Phường Liễu Giai, Quận Ba Đình, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 54.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 14.25,
+        "additional_info": {
+            "street_size": [
+                10.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-mat-pho-vu-trong-phung-70m2-x-5-tang-x-3-thoang-chi-25-ty--9214591.html",
+        "address": " 71 Đường Vũ Trọng Phụng, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 70.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 25.6,
+        "additional_info": {
+            "street_size": [
+                12.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/sieu-pham-tuyen-2-tinh-lo-420-gia-gan-1-ty-mat-tien-6m-view-ho-xa-binh-yen-thach-that-9178006.html",
+        "address": " Tỉnh lộ 420, Xã Bình Yên, Huyện Thạch Thất, Hà Nội",
+        "facade": 6.5,
+        "direction": null,
+        "age": null,
+        "area": 70.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 0.8,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/chinh-chu-ban-biet-thu-song-lap-dt-144m2-kdt-lieco-bac-32-tram-troi-hoai-duc-hn-9230966.html",
+        "address": " Hà Nội Đường Quốc lộ 32, Thị trấn Trạm Trôi, Huyện Hoài Đức, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 144.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Biệt thự, nhà liền kề",
+        "price": 8.4,
+        "additional_info": {
+            "street_size": [
+                13.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/sieu-hiem-view-tttm-thong-san-tmay-kdoanh-duong-noi-ha-dong-50m2x6t-gia-7-65-ty--9230876.html",
+        "address": " Phố Tố Hữu, Dương Nội, Hà Đông Đường Tố Hữu, Phường Dương Nội, Quận Hà Đông, Hà Nội",
+        "facade": 4.5,
+        "direction": null,
+        "age": null,
+        "area": 55.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà mặt tiền",
+        "price": 7.65,
+        "additional_info": {
+            "street_size": [
+                25.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-view-ho-thach-ban-o-to-do-cua-chi-2-6-ty-ngo-thong-kinh-doanh--9233189.html",
+        "address": " Đường Thạch Bàn, Phường Thạch Bàn, Quận Long Biên, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 30.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 2.6,
+        "additional_info": {
+            "street_size": [
+                3.5
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-dep-thuy-khue-vong-thi-48m-mat-tien-4-8m-4-ty-ngo-thoang-gan-ho-9232583.html",
+        "address": " Đường Thụy Khuê, Phường Thụy Khuê, Quận Tây Hồ, Hà Nội",
+        "facade": 4.8,
+        "direction": null,
+        "age": null,
+        "area": 48.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 4.0,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/can-ban-nha-pho-nguyen-van-cu-120m2-via-he-3m-ngo-o-to-tranh-tien-ich-khung-gia-re--9220335.html",
+        "address": " Đường Ngọc Lâm, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",
+        "facade": 6.5,
+        "direction": null,
+        "age": null,
+        "area": 120.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 14.5,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/chao-ban-shophouse-du-an-thuong-thanh-riverside-2500m2-tiem-nang-sinh-loi-cao-doc-quyen-9224848.html",
+        "address": " Đường Nam Đuống, Phường Thượng Thanh, Quận Long Biên, Hà Nội",
+        "facade": 6.0,
+        "direction": null,
+        "age": null,
+        "area": 200.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà mặt tiền",
+        "price": 5.0,
+        "additional_info": {
+            "street_size": [
+                22.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/lo-goc-3-thoang-ngo-thong-oto-kd-84m-mt-6-6m-ngoc-lam-long-bien-nhinh-9-ty--9232083.html",
+        "address": " Long Biên Hà Nội Đường Ngọc Lâm, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 84.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà mặt tiền",
+        "price": 9.0,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-chua-boc-via-he-o-to-tranh-kd-caffe-thoi-trang-chi-co-dinh-54m2-gia-10-9-ty--8972679.html",
+        "address": " Phố Chùa Bộc, Phường Quang Trung, Quận Đống Đa, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 54.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 10.9,
+        "additional_info": {
+            "street_size": [
+                8.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/cau-giay-phan-lo-3-oto-tranh-via-he-kinh-doanh-62m-11-5-ty-9228423.html",
+        "address": " Đường Cầu Giấy, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",
+        "facade": 4.5,
+        "direction": null,
+        "age": null,
+        "area": 62.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 11.5,
+        "additional_info": {
+            "street_size": [
+                8.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-linh-nam-quan-hoang-mai-vi-tri-dac-dia-40m2-3-2-ty--9234811.html",
+        "address": " Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 40.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 3.2,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-24m2-pho-doi-can-so-rieng-chinh-chu-gan-lang-bac-gia-2-2-ty--9227505.html",
+        "address": " Phố Đội cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội",
+        "facade": 3.0,
+        "direction": null,
+        "age": null,
+        "area": 24.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 2.2,
+        "additional_info": {
+            "street_size": [
+                2.5
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-lo-dat-phu-cat-truc-chinh-thon-5-100-tho-cu-sat-nha-may-in-tien-gia-chi-18tr-m2-8697020.html",
+        "address": " Đường Phú Cát, Xã Phú Cát, Huyện Quốc Oai, Hà Nội",
+        "facade": 12.34,
+        "direction": null,
+        "age": null,
+        "area": 200.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 0.018000000000000002,
+        "additional_info": {
+            "street_size": [
+                9.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/duy-nhat-tan-mai-42m-5-tang-o-to-do-can-ban-gap-chi-3-7-ty--9229327.html",
+        "address": " Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 42.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 3.7,
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/chinh-chu-ban-nha-p-de-la-thanh-q-dong-da-dt-54m2-4t-gia-3-5ty-8210646.html",
+        "address": " Đường Đê La Thành, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+        "facade": null,
+        "direction": "Đông Bắc",
+        "age": null,
+        "area": 50.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 3.4,
+        "additional_info": {
+            "street_size": [
+                2.5
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-khuong-trung-35m2-4-tang-mt-5-1m-gia-2-75-ty-thanh-xuan-9223687.html",
+        "address": " Đường Khương Trung, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 35.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 2.75,
+        "additional_info": {
+            "street_size": [
+                1.8
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/3-3-ty-truong-dinh-5t-39m2-full-noi-that-gan-ho-den-lu-tong-5-ngu-9232589.html",
+        "address": " Đường Trương Định, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 39.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 3.3,
+        "additional_info": {
+            "street_size": [
+                2.2
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/chu-nha-can-tien-ban-gap-manh-dat-dep-nhu-tranh-ve-duc-thuong-hoai-duc--9189686.html",
+        "address": " Xã Đức Thượng, Huyện Hoài Đức, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 45.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 1.5,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-le-duc-tho-50m2-gia-nhinh-3-ty-ngo-oto-oto-tranh-20m--9215717.html",
+        "address": " Đường Lê Đức Thọcầu giấy Đường Lê Đức Thọ, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 80.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà mặt tiền",
+        "price": 5.0,
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/nha-mat-ngo-o-to-kinh-doanh-dinh-quan-dong-da-40m2-gia-7-2-ty-9232400.html",
+        "address": " Đường Yên Lãng, Phường Láng Hạ, Quận Đống Đa, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 40.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 7.2,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/mat-pho-nguyen-van-cu-long-bien-127m2-su-dung-tang-nha-3-tang-via-he-da-bong-14-5-ty--9222982.html",
+        "address": " Đường Nguyễn Văn Cừ, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",
+        "facade": 4.5,
+        "direction": null,
+        "age": null,
+        "area": 127.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 3,
+        "house_type": "Nhà mặt tiền",
+        "price": 14.5,
+        "additional_info": {
+            "street_size": [
+                20.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/chinh-chu-can-ban-lo-dat-53-lo-5-kdt-den-lu-2-p-hoang-van-thu-hoang-mai-ha-noi-6182925.html",
+        "address": " Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 60.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 9.8,
+        "additional_info": {
+            "street_size": []
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-cau-giay-34m2-5t-nha-dan-xay-chac-chan-ngo-rong-thoang-gan-pho-nhinh-3-ty-9172033.html",
+        "address": " Đường Hoàng Quốc Việt, Phường Nghĩa Tân, Quận Cầu Giấy, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 34.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 3.5,
+        "additional_info": {
+            "street_size": [
+                2.5
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/nha-dep-gia-ban-nhanh-sieu-re-le-du-dt-50m2-gia-3-7-ty-co-thuong-luong--9235803.html",
+        "address": " Đường Lê Đức Thọ, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 50.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": " 50 ngàn ",
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-dat-ngo-63-le-duc-tho-65m2-oto-do-cua-mat-tien-4m-giam-gia-con-5-ty-9234197.html",
+        "address": " lê đức thọ Đường Lê Đức Thọ, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 65.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Nhà mặt tiền",
+        "price": 5.0,
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-mat-pho-xa-dan-60m-6-tang-tien-5-5m-22-ty--9233418.html",
+        "address": " Phố Xã Đàn, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+        "facade": 5.5,
+        "direction": null,
+        "age": null,
+        "area": 60.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà mặt tiền",
+        "price": 22.0,
+        "additional_info": {
+            "street_size": [
+                30.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-dat-duong-vai-reo-dien-tich-100m-doi-dien-nha-may-in-tien-8785617.html",
+        "address": " Đường Phú Cát, Xã Phú Cát, Huyện Quốc Oai, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 100.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 1.8,
+        "additional_info": {
+            "street_size": [
+                16.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/can-ban-dat-mat-pho-pham-van-dong-ha-noi-via-he-rong-mat-tien-11m-kinh-doanh-dinh--8214860.html",
+        "address": " Phố Nguyễn Đình Hoàn, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",
+        "facade": 5.5,
+        "direction": null,
+        "age": null,
+        "area": 72.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 5.3,
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/nha-dep-long-bien-thong-so-dep-full-noi-that-o-to-do-cua-vao-nha-gia-6-5-ty--9233913.html",
+        "address": " Phố Ái Mộ, Phường Bồ Đề, Quận Long Biên, Hà Nội",
+        "facade": 6.0,
+        "direction": null,
+        "age": null,
+        "area": 61.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Các loại khác",
+        "price": 6.5,
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/hot-hot-hot-giam-3-ty-ban-nha-200m-10-tang-2mt-mat-ho-tmay-5-o-to-dong-tien-3-3-ty-nam-9058875.html",
+        "address": " Đường Nguyễn Xiển, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội",
+        "facade": 8.0,
+        "direction": null,
+        "age": null,
+        "area": 200.0,
+        "bedroom": 22,
+        "bathroom": null,
+        "floors": 10,
+        "house_type": "Nhà mặt tiền",
+        "price": 39.9,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-dat-tang-nha-3-tang-mat-pho-ngyen-van-cu-long-bien-dien-tich-72m2-gia-11-6-ty-9230871.html",
+        "address": " Đường Nguyễn Văn Cừ, Phường Gia Thụy, Quận Long Biên, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 72.0,
+        "bedroom": 2,
+        "bathroom": null,
+        "floors": 3,
+        "house_type": "Nhà mặt tiền",
+        "price": 11.6,
+        "additional_info": {
+            "street_size": [
+                20.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-hoang-van-thai-75mx4t-mt-5m-lo-goc-o-to-tranh-2-thoang-gia-8-6-ti-9232665.html",
+        "address": " Phố Hoàng Văn Thái, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 75.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 8.6,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/3-mat-thoang-vinh-vien-oto-5m-5-2-ty-dh-su-pham-9235361.html",
+        "address": " Đường Xuân Thủy, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 42.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 5.2,
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/hot-hot-hot-o-to-vao-nha-moi-dep-40m-4ngu-chi-hon-4-ty-nam-tu-liem-9236025.html",
+        "address": " Lê Quang Đạo, Nam Từ Liêm, Hà Nội Đường Lê Quang Đạo, Phường Phú Đô, Quận Nam Từ Liêm, Hà Nội",
+        "facade": 3.5,
+        "direction": null,
+        "age": null,
+        "area": 40.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 4.7,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/chinh-chu-can-ban-gap-nha-q-long-bien-dt-38m2-5t-mt-5-5m-gia-3-45-ty-8841685.html",
+        "address": " Đường Long Biên 1, Phường Long Biên, Quận Long Biên, Hà Nội",
+        "facade": 5.5,
+        "direction": null,
+        "age": null,
+        "area": 40.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 3.45,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/chinh-chu-can-ban-gap-nha-p-quan-nhan-dt-35m2-5t-mt-3-5m-gia-3-87-ty-8871284.html",
+        "address": " Phố Quan Nhân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",
+        "facade": 3.5,
+        "direction": "Bắc",
+        "age": null,
+        "area": 36.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 3.85,
+        "additional_info": {
+            "street_size": [
+                2.5
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-tdc-trau-quy-mat-duong-tau-truc-duong-22m-thong-len-long-bien-9234337.html",
+        "address": " Đường Nguyễn Mậu Tài, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",
+        "facade": 3.0,
+        "direction": "Đông Bắc",
+        "age": null,
+        "area": 34.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 5.05,
+        "additional_info": {
+            "street_size": [
+                22.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-biet-thu-lien-ke-khuat-duy-tien-dt-75m2-6t-mt-5-5-gia-22ty-8845041.html",
+        "address": " Phố Ngụy Như Kon Tum, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",
+        "facade": 5.5,
+        "direction": null,
+        "age": null,
+        "area": 76.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà mặt tiền",
+        "price": 22.0,
+        "additional_info": {
+            "street_size": [
+                8.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/nha-truong-dinh-hoang-mai-38m-4tang-mat-tien-4-5m-gia-4-55-ty--9236999.html",
+        "address": " Trương Định Đường Hoàng Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",
+        "facade": 4.5,
+        "direction": null,
+        "age": null,
+        "area": 38.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 4.55,
+        "additional_info": {
+            "street_size": [
+                500.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/55-ty-mat-pho-thi-co-nhieu-nhung-mat-pho-nguyen-thi-dinh-cau-giay-van-co-cai-chat-rieng-9232283.html",
+        "address": " Đường Nguyễn Thị Định, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",
+        "facade": 6.0,
+        "direction": null,
+        "age": null,
+        "area": 90.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 8,
+        "house_type": "Nhà mặt tiền",
+        "price": 55.0,
+        "additional_info": {
+            "street_size": [
+                20.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-dat-tang-nha-quan-hoan-kiem-45m2-lo-goc-hai-mat-tien-chi-3-5-ty-9221163.html",
+        "address": " 797 Đường Hồng Hà, Phường Chương Dương Độ, Quận Hoàn Kiếm, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 45.0,
+        "bedroom": 2,
+        "bathroom": null,
+        "floors": 3,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 3.5,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-gap-nha-dat-vong-thi-tay-ho-oto-kd-dt80m-5t-mt-6-5m-gia-13-3-ty--9231099.html",
+        "address": " Phố Võng Thị, Phường Bưởi, Quận Tây Hồ, Hà Nội",
+        "facade": 6.5,
+        "direction": null,
+        "age": null,
+        "area": 80.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 13.3,
+        "additional_info": {
+            "street_size": [
+                7.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-mat-pho-nguyen-van-huyen-cau-giay-65m-5-tang-2-mat-tien-via-he-kinh-doanh-chi-20ty-9232353.html",
+        "address": " Đường Nguyễn Văn Huyên, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 65.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 20.0,
+        "additional_info": {
+            "street_size": [
+                8.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/lac-long-quan-45m2x5t-dong-tien-mat-tien-to-o-to-2-chieu-kd-dinh-12-t-y-600tr-9233342.html",
+        "address": " Đường Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 45.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 12.6,
+        "additional_info": {
+            "street_size": [
+                10.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/cuc-hiem-phan-lo-o-to-vip-van-phuc-ba-dinh-5-tang-o-luon-14-7-ty-9233489.html",
+        "address": " Phố Vạn Phúc, Phường Liễu Giai, Quận Ba Đình, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 55.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 14.7,
+        "additional_info": {
+            "street_size": [
+                9.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/phan-lo-quan-doi-duong-o-to-tranh-58m2-x-4-tang-pho-giai-phong-cach-pho-60m-9180197.html",
+        "address": " Đường Giải Phóng, Phường Thịnh Liệt, Quận Hoàng Mai, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 58.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 6.1,
+        "additional_info": {
+            "street_size": [
+                4.5
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-lo-goc-pho-yen-hoa-5-tang-gia-5-7-ty-cau-giay-cach-pho-50m-tang-full-do--9192818.html",
+        "address": " 23 Đường Yên Hòa, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",
+        "facade": 4.8,
+        "direction": null,
+        "age": null,
+        "area": 48.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 5.7,
+        "additional_info": {
+            "street_size": [
+                3.5
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-mat-pho-hong-tien-nguyen-van-cu-long-bien-9138063.html",
+        "address": " Phố Hồng Tiến, Phường Bồ Đề, Quận Long Biên, Hà Nội",
+        "facade": 6.6,
+        "direction": null,
+        "age": null,
+        "area": 160.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 40.0,
+        "additional_info": {
+            "street_size": [
+                12.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/can-ban-gap-nha-p-hao-nam-dong-da-dt-106m-7t-gia-34-5ty-9114505.html",
+        "address": " Phố Hào Nam, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+        "facade": 7.9,
+        "direction": null,
+        "age": null,
+        "area": 100.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà mặt tiền",
+        "price": 20.3,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/hot-hot-can-tien-ban-gap-nha-mat-ngo-109-bo-de-gara-oto-dt50m2-x5t-6pn-gia-6xxty-9234327.html",
+        "address": " Long Biên Phố Bồ Đề, Phường Bồ Đề, Quận Long Biên, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 50.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 4.2,
+        "additional_info": {
+            "street_size": [
+                30.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-xuan-dinh-35m2-x-6-tang-o-to-do-cong-nha-moi-3-3-ty--9229330.html",
+        "address": " xuân đỉnh Đường Xuân Đỉnh, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",
+        "facade": 4.0,
+        "direction": "Đông Bắc",
+        "age": null,
+        "area": 35.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà trong hẻm",
+        "price": 3.3,
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/mat-pho-trung-kinh-vu-pham-ham-via-he-10m-kinh-doanh-dinh-cao-6tx70m-hon-30-ty-9105312.html",
+        "address": " Đường Trung Hòa, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",
+        "facade": 4.5,
+        "direction": null,
+        "age": null,
+        "area": 76.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà mặt tiền",
+        "price": 30.0,
+        "additional_info": {
+            "street_size": [
+                20.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/can-ban-nha-p-ton-that-tung-q-dong-da-dt-50m-gia-5-6ty-9129440.html",
+        "address": " Phố Tôn Thất Tùng, Phường Ngã Tư Sở, Quận Đống Đa, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 50.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 2,
+        "house_type": "Nhà trong hẻm",
+        "price": 5.6,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-biet-thu-pandora-nguyen-trai-thanh-xuan-6-tang-thang-may-3-mat-thoang-gia-27-5-ty-9232408.html",
+        "address": " Đường Nguyễn Trãi, Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội",
+        "facade": 7.0,
+        "direction": null,
+        "age": null,
+        "area": 150.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Biệt thự, nhà liền kề",
+        "price": 27.5,
+        "additional_info": {
+            "street_size": [
+                20.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-mai-hac-de-1-ty-650-tang-1-14m2-tang-2-20m2-thong-tin-that-100-goi-chi-nha-ng-9229362.html",
+        "address": " Phố Mai Hắc Đế, Phường Bùi Thị Xuân, Quận Hai Bà Trưng, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 20.0,
+        "bedroom": 2,
+        "bathroom": null,
+        "floors": 2,
+        "house_type": "Nhà trong hẻm",
+        "price": 1.65,
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/cuc-hiem-lo-goc-o-to-vao-nha-khu-phan-lo-dan-tri-cao-trung-tam-quan-ha-dong-9116359.html",
+        "address": " Đường Bà Triệu, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội",
+        "facade": 6.1,
+        "direction": null,
+        "age": null,
+        "area": 63.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 6.8,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nhanh-780m2-dat-nghi-duong-view-canh-dong-tai-khanh-thuong-ba-vi-8823573.html",
+        "address": " Xã Khánh Thượng, Huyện Ba Vì, Hà Nội",
+        "facade": 20.0,
+        "direction": null,
+        "age": null,
+        "area": 780.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 1.0,
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-phan-lo-pho-giap-nhat-kd-dt-4-5m2-6t-mt-4-0m-gia-6-ty-6211786.html",
+        "address": " Đường Giáp Nhất, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+        "facade": 3.8,
+        "direction": null,
+        "age": null,
+        "area": 60.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 6.9,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/hot-giam-2-ty-ban-homestay-50phong-vip-2cua-hang-9tang-tmay-oto-dong-tien-1-8ty-nam-9058838.html",
+        "address": " Đường Yên Phúc, Phường Phúc La, Quận Hà Đông, Hà Nội",
+        "facade": 6.0,
+        "direction": "Nam",
+        "age": null,
+        "area": 150.0,
+        "bedroom": 52,
+        "bathroom": null,
+        "floors": 9,
+        "house_type": "Nhà mặt tiền",
+        "price": 24.5,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/chinh-chu-can-tien-dau-tu-ban-96-7m2-oto-7-cho-vao-tan-noi-gan-cang-can-icd-my-dinh-9200123.html",
+        "address": " Đường Quốc lộ 32, Xã Đức Thượng, Huyện Hoài Đức, Hà Nội",
+        "facade": 4.5,
+        "direction": null,
+        "age": null,
+        "area": 96.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 0.036000000000000004,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-mat-pho-nguyen-hoang-via-he-thang-may-duong-doi-75m2-x-6-tang-gia-31-5-ty-9048798.html",
+        "address": " Đường Nguyễn Hoàng, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 7.55,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà mặt tiền",
+        "price": 31.5,
+        "additional_info": {
+            "street_size": [
+                30.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-pho-trung-kinh-kinh-doanh-via-he-phan-lo-o-to-tranh-85m2-6t-nhinh-22-ty-9227895.html",
+        "address": " 80 Phố Trung Kính, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 85.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà trong hẻm",
+        "price": 22.0,
+        "additional_info": {
+            "street_size": [
+                0.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/phan-lo-tran-kim-xuyen-cau-giay-85m2-x-7-tang-thang-may-via-he-o-to-kd-gia-26-5-ty-9188149.html",
+        "address": " Đường Trần Kim Xuyến, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",
+        "facade": 5.5,
+        "direction": null,
+        "age": null,
+        "area": 85.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 7,
+        "house_type": "Nhà mặt tiền",
+        "price": 26.5,
+        "additional_info": {
+            "street_size": [
+                15.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-toa-nha-140m2-cho-thue-can-ho-dich-vu-tai-tay-ho--9194642.html",
+        "address": " Đường Âu Cơ, Phường Tứ Liên, Quận Tây Hồ, Hà Nội",
+        "facade": 8.0,
+        "direction": null,
+        "age": null,
+        "area": 136.0,
+        "bedroom": 14,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà mặt tiền",
+        "price": 15.0,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-vu-ngoc-phan-nha-dep-thang-may-oto-vao-nha-hon-13-ty-9229347.html",
+        "address": " Phố Vũ Ngọc Phan, Phường Láng Hạ, Quận Đống Đa, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 50.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Biệt thự, nhà liền kề",
+        "price": 13.5,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/nha-dep-kim-giang-lo-goc-an-sinh-dinh-9234687.html",
+        "address": " Đường Kim Giang, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 30.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 3.9,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-ngo-401-xuan-dinh-bac-tu-liem-moi-sieu-dep-gia-re-40m2-5-tang--9234729.html",
+        "address": " Xuân Đỉnh, Bắc Từ Liêm Đường Xuân Đỉnh, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 40.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 3.3,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/vo-no-can-ban-nha-rieng-quan-hai-ba-trung-64m-gara-7-cho-kinh-doanh-9211755.html",
+        "address": " Đường Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",
+        "facade": 4.2,
+        "direction": null,
+        "age": null,
+        "area": 65.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 3,
+        "house_type": "Nhà mặt tiền",
+        "price": 9.45,
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-gap-ba-dinh-10m-ra-pho-dong-tien-200tr-6-tang-thang-may-11-ty--9236124.html",
+        "address": " Đường Giảng Võ, Phường Giảng Võ, Quận Ba Đình, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 55.0,
+        "bedroom": 10,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà mặt tiền",
+        "price": 11.0,
+        "additional_info": {
+            "street_size": [
+                2.5
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/nha-moi-re-dep-tai-bien-giang-ha-dong-chi-hon-ty-9204864.html",
+        "address": " Đường Đoàn Kết, Phường Biên Giang, Quận Hà Đông, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 36.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 3,
+        "house_type": "Nhà trong hẻm",
+        "price": 1.55,
+        "additional_info": {
+            "street_size": [
+                2.5
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/nhinh-8-ty-tan-trieu-dong-tien-hon-60tr-thang-77m2-7t-mt-6-1m-21phong-ngu-8463185.html",
+        "address": " Đường Triều Khúc, Xã Tân Triều, Huyện Thanh Trì, Hà Nội",
+        "facade": 6.1,
+        "direction": null,
+        "age": null,
+        "area": 86.0,
+        "bedroom": 21,
+        "bathroom": null,
+        "floors": 7,
+        "house_type": "Phòng trọ, nhà trọ",
+        "price": 8.3,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/xem-la-chot-dau-tu-dinh-65tr-m2-cau-giay-oto-vao-nha-100m2-mt8m-ko-quy-hoach-9206572.html",
+        "address": " Phố Dương Quảng Hàm, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",
+        "facade": 8.0,
+        "direction": null,
+        "age": null,
+        "area": 100.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Nhà trong hẻm",
+        "price": 0.065,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/750tr-so-huu-ngay-vi-tri-vang-trong-lang-do-thi-hoa-lac-8016053.html",
+        "address": " Đường Quốc lộ 21, Xã Bình Yên, Huyện Thạch Thất, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 62.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 0.65,
+        "additional_info": {
+            "street_size": [
+                8.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/-130-ty-400m-dat-mat-tien-15m-mat-pho-lo-duc--9234793.html",
+        "address": " Phố Lò Đúc, Phường Phạm Đình Hổ, Quận Hai Bà Trưng, Hà Nội",
+        "facade": 15.0,
+        "direction": null,
+        "age": null,
+        "area": 400.0,
+        "bedroom": 1,
+        "bathroom": null,
+        "floors": 1,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 130.0,
+        "additional_info": {
+            "street_size": [
+                30.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-mat-pho-nguyen-hong-doanh-thu-120-trieu1thang-50m-x-6t-so-do-chinh-chu-gia-20-ty-9210342.html",
+        "address": " Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",
+        "facade": null,
+        "direction": "Bắc",
+        "age": null,
+        "area": 40.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 3.85,
+        "additional_info": {
+            "street_size": [
+                2.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/lien-ke-to-huu-van-phuc-75m2-5-t-chi-nhinh-7-ty-9208039.html",
+        "address": " Đường Tố Hữu, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 75.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Biệt thự, nhà liền kề",
+        "price": 7.9,
+        "additional_info": {
+            "street_size": [
+                8.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-nguyen-chi-thanh-46m2-phan-lo-o-to-2-thoang-o-ngay--9237129.html",
+        "address": " 97 Đường Nguyễn Chí Thanh, Phường Láng Hạ, Quận Đống Đa, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 46.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà mặt tiền",
+        "price": 9.3,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/chinh-chu-ban-3-lo-dat-duc-thuong-hoai-duc-dt-45m-gia-ban-1-5-ty--9206044.html",
+        "address": " Đường Quốc lộ 32, Xã Đức Thượng, Huyện Hoài Đức, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 45.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 1.5,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-mat-pho-vu-huu-q-thanh-xuan-dt-88m-3t-mt6-4m-gia-15-5ty-8162483.html",
+        "address": " Phố Vũ Hữu, Phường Thanh Xuân Bắc, Quận Thanh Xuân, Hà Nội",
+        "facade": 6.5,
+        "direction": null,
+        "age": null,
+        "area": 89.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 3,
+        "house_type": "Nhà mặt tiền",
+        "price": 14.5,
+        "additional_info": {
+            "street_size": [
+                7.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-gap-nha-trinh-cong-son-o-to-kd-dt-80m-nha-4t-mt-7m-gia-15-2-ty-9210427.html",
+        "address": " Phố Trịnh Công Sơn, Phường Nhật Tân, Quận Tây Hồ, Hà Nội",
+        "facade": 7.0,
+        "direction": null,
+        "age": null,
+        "area": 80.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 15.0,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-pho-trinh-cong-son-dt-80m-4-tang-mt-7m-gia-ban-15-2-ty--9207026.html",
+        "address": " Phố Trịnh Công Sơn, Phường Nhật Tân, Quận Tây Hồ, Hà Nội",
+        "facade": 7.0,
+        "direction": null,
+        "age": null,
+        "area": 80.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 15.2,
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/chinh-chu-ban-nha-kim-dong-48m2-5t-mt-5-2m-gia-chi-4-4-ty--9233986.html",
+        "address": " Phố Kim Đồng, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội",
+        "facade": 5.2,
+        "direction": null,
+        "age": null,
+        "area": 48.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 4.4,
+        "additional_info": {
+            "street_size": [
+                10.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/toa-nha-van-phong-mat-pho-nguyen-thi-dinh-hoang-ngan-85m-7-tang-gia-26-5-ty-9233299.html",
+        "address": " Phố Nguyễn Thị Định, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",
+        "facade": 5.5,
+        "direction": null,
+        "age": null,
+        "area": 85.0,
+        "bedroom": 7,
+        "bathroom": null,
+        "floors": 7,
+        "house_type": "Nhà mặt tiền",
+        "price": 26.5,
+        "additional_info": {
+            "street_size": [
+                10.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/nha-dep-nhu-ngoc-trinh-40m2-x-4-tang-ngo-rong-thoang-gan-o-to-tang-90-noi-that-8200353.html",
+        "address": " Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 40.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 3.65,
+        "additional_info": {
+            "street_size": [
+                2.5
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-pho-tram-lo-goc-dep-nhu-hinh-o-to-qua-nha-ngo-thong-33m2-5t-mt6m-3-15-ty-lb-9134503.html",
+        "address": " Phố Trạm, Phường Long Biên, Quận Long Biên, Hà Nội",
+        "facade": 6.0,
+        "direction": null,
+        "age": null,
+        "area": 33.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 3.15,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-gap-nha-mat-pho-nguyen-van-huyen-dt-63m2-5t-gia-20-ty--9235405.html",
+        "address": " Đường Nguyễn Văn Huyên, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",
+        "facade": 4.5,
+        "direction": null,
+        "age": null,
+        "area": 65.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 20.0,
+        "additional_info": {
+            "street_size": [
+                20.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-dat-chinh-chu-mat-de-co-bi-gia-lam-long-bien-70m2-mt4m-chi-70tr-m2-9217267.html",
+        "address": " Đường Cổ Bi, Xã Cổ Bi, Huyện Gia Lâm, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 70.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 4.9,
+        "additional_info": {
+            "street_size": [
+                13.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-view-ho-thach-ban-o-to-do-cua-dien-tich-30m2-5-tang-gia-2-6-ty--9233246.html",
+        "address": " Phố Ngọc Trì, Phường Thạch Bàn, Quận Long Biên, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 30.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 2.6,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/sieu-pham-hai-ba-trung-7-tang-thang-may-thiet-ke-chau-au-mat-tien-rong-9236193.html",
+        "address": " Phố Hương Viên, Phường Đồng Nhân, Quận Hai Bà Trưng, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 60.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 7,
+        "house_type": "Nhà trong hẻm",
+        "price": 7.0,
+        "additional_info": {
+            "street_size": [
+                5.6
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/dong-tien-vi-tri-dep-nhat-thanh-xuan-50-trieu-thang-55-m2-5-8-ty-9234132.html",
+        "address": " Phố Vũ Tông Phan, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",
+        "facade": 6.0,
+        "direction": null,
+        "age": null,
+        "area": 55.0,
+        "bedroom": 9,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà trong hẻm",
+        "price": 5.8,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-dat-2-mat-duong-ql5-sat-ql17-va-duong-vao-vinhomes-gia-70tr-m2-9232281.html",
+        "address": " 7 Đường Nguyễn Đức Thuận, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 128.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 3,
+        "house_type": "Nhà mặt tiền",
+        "price": 0.07,
+        "additional_info": {
+            "street_size": [
+                40.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/cau-buou-45m-5-tang-3-7-ty-o-to-vao-nha-9227964.html",
+        "address": " Đường Cầu Bươu, Huyện Thanh Trì, Hà Nội",
+        "facade": 4.2,
+        "direction": null,
+        "age": null,
+        "area": 45.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 3.7,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/hot-hot-hot-giam-3-ty-ban-nha-200m-10-tang-2mt-mat-ho-tmay-5-o-to-dong-tien-3-3-ty-nam-9070866.html",
+        "address": " Quận Đống Đa, Hà Nội",
+        "facade": 8.0,
+        "direction": null,
+        "age": null,
+        "area": 200.0,
+        "bedroom": 22,
+        "bathroom": null,
+        "floors": 10,
+        "house_type": "Nhà mặt tiền",
+        "price": 39.9,
+        "additional_info": {
+            "street_size": [
+                7.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/1-050-trieu-co-lo-tdc-phu-cat-duong-16m-sat-cnc-hoa-lac-doi-dien-to-hop-y-te-9218482.html",
+        "address": " Quốc lộ 21A, Xã Phú Cát, Huyện Quốc Oai, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 60.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 1.05,
+        "additional_info": {
+            "street_size": [
+                16.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/nhinh-4-ty-co-ngay-nha-dep-pho-lac-long-quan-48m-4-tang-4-15-ty--9232601.html",
+        "address": " Đường Lạc Long Quân, Phường Thụy Khuê, Quận Tây Hồ, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 48.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 4.0,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nhanh-nha-mat-pho-kinh-doanh-da-dang-o-to-tranh-chi-100m-ra-pho-tan-mai--9234808.html",
+        "address": " Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 40.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 6.6,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/trung-tam-pho-cau-giay-5-tang-38m2-thong-san-tuyet-dep-mat-tien-rong-4-2m-gan-pho--9234083.html",
+        "address": " Đường Cầu Giấy, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",
+        "facade": 4.2,
+        "direction": null,
+        "age": null,
+        "area": 38.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 4.7,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-gap-nha-pho-truong-chinh-gia-sieu-tot-ngo-oto-tranh-dt-101m2-5t-mt-5m-gia14-48-ty--9219017.html",
+        "address": " Đường Trường Chinh, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 101.0,
+        "bedroom": 7,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 14.48,
+        "additional_info": {
+            "street_size": [
+                5.2
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/nha-vip-p-lo-oto-nguyen-phong-sac-dt-50m-6-tang-mt-3-6-10m-gia-ban-9-8-ty--9223727.html",
+        "address": " Đường Nghĩa Tân, Phường Nghĩa Tân, Quận Cầu Giấy, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 50.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 9.8,
+        "additional_info": {
+            "street_size": [
+                7.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-lo-dat-tai-dinh-cu-thach-hoa-truc-chinh-vao-kdt-phu-cat-city-127m2-mat-tien-5m-8724705.html",
+        "address": " Đại lộ Thăng Long, Xã Thạch Hòa, Huyện Thạch Thất, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 127.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 0.0265,
+        "additional_info": {
+            "street_size": [
+                8.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/-xa-dan-manh-dat-hiem-o-to-tranh-via-he-kinh-doanh-45m2-mat-7-5m-gia-7-15-ty-9230808.html",
+        "address": " Phố Xã Đàn, Phường Phương Liên, Quận Đống Đa, Hà Nội",
+        "facade": 7.5,
+        "direction": null,
+        "age": null,
+        "area": 45.0,
+        "bedroom": 1,
+        "bathroom": null,
+        "floors": 1,
+        "house_type": "Nhà mặt tiền",
+        "price": 7.15,
+        "additional_info": {
+            "street_size": [
+                5.5
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-mat-pho-xa-dan-mat-tien-to-vat-dang-cho-thue-130-tr-tren-thang-6579173.html",
+        "address": " Phố Xã Đàn, Phường Trung Phụng, Quận Đống Đa, Hà Nội",
+        "facade": 8.0,
+        "direction": null,
+        "age": null,
+        "area": 60.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà mặt tiền",
+        "price": 29.0,
+        "additional_info": {
+            "street_size": [
+                8.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/duy-nhat-hiem-co-1-02-nha-mat-ngo-kinh-doanh-sam-uat-trung-tam-quan-dong-da-9076742.html",
+        "address": " Phố Tôn Thất Tùng, Phường Khương Thượng, Quận Đống Đa, Hà Nội",
+        "facade": 4.6,
+        "direction": null,
+        "age": null,
+        "area": 47.0,
+        "bedroom": 2,
+        "bathroom": null,
+        "floors": 2,
+        "house_type": "Nhà trong hẻm",
+        "price": 5.5,
+        "additional_info": {
+            "street_size": [
+                2.6
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/nha-mat-pho-lo-goc-vip-xuan-la-dt-115m-mat-tien-rong-gia-ban-35-ty--8869042.html",
+        "address": " Địa điểm BĐS Đường Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 115.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà mặt tiền",
+        "price": 35.0,
+        "additional_info": {
+            "street_size": [
+                30.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-chinh-chu-pho-xuan-do-gia-2-150-000-000d-9098930.html",
+        "address": " Đường Xuân Đỗ, Phường Cự Khối, Quận Long Biên, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 31.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 2.15,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/nha-dep-hoang-mai-truong-dinh-lo-goc-ngo-thong-2-duong-vao-o-to-cach-nha-10m-9212602.html",
+        "address": " Đường Trương Định, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",
+        "facade": 5.3,
+        "direction": null,
+        "age": null,
+        "area": 31.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 4.0,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/khach-san-sieu-dep-112-m2-6-tang-11-phong-ngay-sat-cipucha-chinh-chu-ban-nhanh-gia-9148531.html",
+        "address": " 5 Đường Nhật Tảo, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội",
+        "facade": 6.0,
+        "direction": null,
+        "age": null,
+        "area": 112.0,
+        "bedroom": 11,
+        "bathroom": null,
+        "floors": 7,
+        "house_type": "Nhà mặt tiền",
+        "price": 16.0,
+        "additional_info": {
+            "street_size": [
+                16.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/sieu-hiem-nha-mat-pho-trich-sai-tay-ho-dien-tich-55m2-view-ho-tay-gia-16ty980-9229800.html",
+        "address": " Phố Trích Sài, Phường Bưởi, Quận Tây Hồ, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 55.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 16.98,
+        "additional_info": {
+            "street_size": [
+                12.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-pho-phan-trong-tue-thanh-tri-o-to-kinh-doanh-41m2-4-t-gia-2-54-ty--9232646.html",
+        "address": " Đường Phan Trọng Tuệ, Xã Ngọc Hồi, Huyện Thanh Trì, Hà Nội",
+        "facade": 3.2,
+        "direction": null,
+        "age": null,
+        "area": 41.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 2.54,
+        "additional_info": {
+            "street_size": [
+                5.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-cau-giay-gan-o-to-ngo-thang-can-goc-65m2-mat-tien-6m-gia-nhinh-6-ty--9225122.html",
+        "address": " Phố Dương Quảng Hàm, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",
+        "facade": 6.0,
+        "direction": null,
+        "age": null,
+        "area": 65.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 3,
+        "house_type": "Nhà trong hẻm",
+        "price": 6.5,
+        "additional_info": {
+            "street_size": [
+                3.5
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/du-an-tnr-the-nosta-90-duong-lang-9078435.html",
+        "address": " 90 Đường Láng, Phường Thịnh Quang, Quận Đống Đa, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 92.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 27,
+        "house_type": "Căn hộ chung cư",
+        "price": 4.0,
+        "additional_info": {
+            "street_size": []
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-mat-pho-doan-ke-thien-cau-giay-ha-noi-120m2-kinh-doanh-sam-uat-gia-16-ty--8568445.html",
+        "address": " Đường Cổ Nhuế, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 139.0,
+        "bedroom": 8,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 10.5,
+        "additional_info": {
+            "street_size": [
+                10.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-khu-bach-kinh-xay-ngo-nong-thong-thoang-dan-tri-cao-an-ninh-tot-9106649.html",
+        "address": " 11/15 Phố Tạ Quang Bửu, Phường Bách Khoa, Quận Hai Bà Trưng, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 42.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 4.2,
+        "additional_info": {
+            "street_size": [
+                2.2
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/le-duc-tho-nha-dep-ve-o-ngay-nhinh-4ty-9235628.html",
+        "address": " Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",
+        "facade": 4.3,
+        "direction": null,
+        "age": null,
+        "area": 43.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 3,
+        "house_type": "Nhà trong hẻm",
+        "price": 4.4,
+        "additional_info": {
+            "street_size": [
+                2.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/soc-chu-can-ban-ha-chao-3-5-ty-mat-pho-chua-boc-52m-x-5-tang-mt-4m-cho-thue-100-trieu-9236206.html",
+        "address": " Phố Chùa Bộc, Phường Trung Liệt, Quận Đống Đa, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 52.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 23.3,
+        "additional_info": {
+            "street_size": [
+                30.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-mat-ngo-pho-8-3-3-tang-lo-goc-ngo-rong-o-to-do-cua-chi-1-72y-9099368.html",
+        "address": " Phố 8/3, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",
+        "facade": 3.2,
+        "direction": null,
+        "age": null,
+        "area": 15.0,
+        "bedroom": 2,
+        "bathroom": null,
+        "floors": 3,
+        "house_type": "Nhà trong hẻm",
+        "price": 1.7,
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-mat-pho-tran-thai-tong-cau-giay-130m2-6-tang-noi-1-tang-ham-kd-44-ty--9235301.html",
+        "address": " Phố Trần Thái Tông, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",
+        "facade": 7.5,
+        "direction": null,
+        "age": null,
+        "area": 130.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà mặt tiền",
+        "price": 44.0,
+        "additional_info": {
+            "street_size": [
+                20.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-mat-pho-vong-giai-phong-minh-khai-lo-goc-3-mat-thoang-kd-dinh-8273877.html",
+        "address": " 123 Phố Vọng, Phường Bách Khoa, Quận Hai Bà Trưng, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 41.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 13.4,
+        "additional_info": {
+            "street_size": [
+                12.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/can-ban-biet-thu-song-lap-ciputra-300m2-x-3-5-tang-mat-tien-12m-vi-tri-dac-dia-gia-59-ty-9190598.html",
+        "address": " Đường Võ Chí Công, Phường Phú Thượng, Quận Tây Hồ, Hà Nội",
+        "facade": 12.0,
+        "direction": null,
+        "age": null,
+        "area": 300.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Biệt thự, nhà liền kề",
+        "price": 59.0,
+        "additional_info": {
+            "street_size": [
+                18.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/can-ban-nha-quan-thanh-xuan-phan-lo-kinh-doanh-van-phong-nha-sang-xin-min-50m2x6t-mt5m-9236424.html",
+        "address": " Quận Thanh Xuân, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 50.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Các loại khác",
+        "price": 5.5,
+        "additional_info": {
+            "street_size": [
+                3.5
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/can-ban-gap-nha-ngoc-lam-long-bien-o-to-do-cong-40mx4t-mt5-4m-nhinh-4-ty--9223497.html",
+        "address": " Hà Nội Đường Ngọc Lâm, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",
+        "facade": 5.4,
+        "direction": null,
+        "age": null,
+        "area": 42.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 4.05,
+        "additional_info": {
+            "street_size": [
+                2.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/chuyen-nhuong-nha-vuon-dien-tich-240m2-mat-tien-6-5m-gia-chi-200-trieu--9146921.html",
+        "address": " Đường Nghi Tàm, Phường Yên Phụ, Quận Tây Hồ, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 200.0,
+        "bedroom": 1,
+        "bathroom": null,
+        "floors": 1,
+        "house_type": "Trang trại",
+        "price": 0.2,
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-dat-phu-dien-phan-lo-o-to-tranh-86m2-mt-5-4m-4-7-ty-9235440.html",
+        "address": " Đường Phú Diễn, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",
+        "facade": 5.4,
+        "direction": null,
+        "age": null,
+        "area": 86.0,
+        "bedroom": 2,
+        "bathroom": null,
+        "floors": 1,
+        "house_type": "Nhà mặt tiền",
+        "price": 4.7,
+        "additional_info": {
+            "street_size": [
+                10.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/nhieu-nha-ban-bot-2n2wc-goc-view-vinuni-2-15-ty-9220148.html",
+        "address": " Đường Quốc lộ 5B, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 80.0,
+        "bedroom": 2,
+        "bathroom": null,
+        "floors": 15,
+        "house_type": "Căn hộ chung cư",
+        "price": 2.15,
+        "additional_info": {
+            "street_size": []
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-tho-quan-28m2-4-tang-chi-2-3-ty-cach-100m-oto-do-9220412.html",
+        "address": " 15 Đường Thổ Quan, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+        "facade": 3.6,
+        "direction": null,
+        "age": null,
+        "area": 28.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 2.3,
+        "additional_info": {
+            "street_size": [
+                2.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/nha-moi-4-5t-sieu-dep-con-sot-lai-cay-xang-xom-cach-ql21b-5m-9117489.html",
+        "address": " Quốc lộ 21B, Phường Phú Lãm, Quận Hà Đông, Hà Nội",
+        "facade": 3.9,
+        "direction": "Bắc",
+        "age": null,
+        "area": 148.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 2.188,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/55m-7-tang-mt-5m-thang-may-nguyen-van-loc-mo-lao-hd-chi-13-99-ty-9223992.html",
+        "address": " Đường Nguyễn Văn Lộc, Phường Mộ Lao, Quận Hà Đông, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 55.0,
+        "bedroom": 10,
+        "bathroom": null,
+        "floors": 7,
+        "house_type": "Nhà mặt tiền",
+        "price": 13.99,
+        "additional_info": {
+            "street_size": [
+                10.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-mat-pho-thanh-nhan-hai-ba-trung-180m2-1-tang-mt-10m-gia-13-3-ty--9235141.html",
+        "address": " Đường Thanh Nhàn, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",
+        "facade": 10.0,
+        "direction": null,
+        "age": null,
+        "area": 180.0,
+        "bedroom": 2,
+        "bathroom": null,
+        "floors": 1,
+        "house_type": "Nhà mặt tiền",
+        "price": 13.3,
+        "additional_info": {
+            "street_size": [
+                16.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/bat-ngo-voi-nha-lo-goc-giang-van-minh-o-to-tranh-chi-26-ty-9236698.html",
+        "address": " Phố Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Hà Nội",
+        "facade": 10.0,
+        "direction": null,
+        "age": null,
+        "area": 110.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 26.0,
+        "additional_info": {
+            "street_size": [
+                15.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-gap-nha-4-tang-dt-48m2-mt-4m-nha-moi-dep-vi-tri-trung-tam-duong-cau-giay-gia-5-1-ty-9203570.html",
+        "address": " 22 Đường Cầu Giấy, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 48.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 5.1,
+        "additional_info": {
+            "street_size": [
+                3.5
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/sieu-hot-nha-truong-chinh-cach-pho-20m-sieu-re-so-voi-mat-bang-chung-thi-truong-9234644.html",
+        "address": " Đường Trường Chinh, Phường Khương Thượng, Quận Đống Đa, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 41.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 4.3,
+        "additional_info": {
+            "street_size": [
+                1.5
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/toi-can-ban-gap-nha-mat-ngo-22-ton-that-tung-ngo-thong-354-truong-chinh-tam-khuong-kd-tot--9152879.html",
+        "address": " Phố Tôn Thất Tùng, Phường Khương Thượng, Quận Đống Đa, Hà Nội",
+        "facade": 4.6,
+        "direction": null,
+        "age": null,
+        "area": 48.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 2,
+        "house_type": "Nhà trong hẻm",
+        "price": 5.35,
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/-nha-moi-hon-3-ty-lo-goc-ngo-254-minh-khai-hoang-mai-ngo-thong-goc-de-chuan-anh-9218848.html",
+        "address": " Đường Hoàng Mai, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",
+        "facade": 3.6,
+        "direction": null,
+        "age": null,
+        "area": 33.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 3.0,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/tuyet-pham-7-tang-khu-dat-kim-cuong-san-vuon-thuong-uyen-view-ho-tay-mat-pho-nguyen-dinh-t-9230136.html",
+        "address": " Mặt phố Nguyễn Đình Thi Đường Nguyễn Đình Thi, Phường Thụy Khuê, Quận Tây Hồ, Hà Nội",
+        "facade": 9.0,
+        "direction": null,
+        "age": null,
+        "area": 220.0,
+        "bedroom": 3,
+        "bathroom": null,
+        "floors": 7,
+        "house_type": "Nhà mặt tiền",
+        "price": 153.0,
+        "additional_info": {
+            "street_size": [
+                10.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/duy-nhat-tan-mai-o-to-do-cua-58m-5-tang-can-ban-gap-5-ty--9230365.html",
+        "address": " Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 58.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà trong hẻm",
+        "price": 5.0,
+        "additional_info": {
+            "street_size": [
+                4.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/chinh-chu-can-ban-manh-dat-45m2-ngo-o-to-vao-tan-dat-gia-1ty6-9189631.html",
+        "address": " lô 45 Đường Quốc lộ 32, Xã Đức Thượng, Huyện Hoài Đức, Hà Nội",
+        "facade": 4.0,
+        "direction": "Tây Bắc",
+        "age": null,
+        "area": 45.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 1.6,
+        "additional_info": {
+            "street_size": [
+                2.4
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-16-8-ty-mp-dai-la-dong-tam-mat-tien-5-5m-38m2x7t-thang-may-kinh-doanh-sam-uat-9171136.html",
+        "address": " Phố Đại La, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",
+        "facade": 5.5,
+        "direction": null,
+        "age": null,
+        "area": 38.0,
+        "bedroom": 5,
+        "bathroom": null,
+        "floors": 7,
+        "house_type": "Nhà mặt tiền",
+        "price": 16.8,
+        "additional_info": {
+            "street_size": [
+                10.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/nha-phuong-liet-50m2-4-tang-3-6mmt-nhinh-8-ty-3-thoang-oto-tranh-khu-co-bao-ve-9222821.html",
+        "address": " Phố Phương Liệt, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",
+        "facade": 3.6,
+        "direction": null,
+        "age": null,
+        "area": 50.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Biệt thự, nhà liền kề",
+        "price": 8.5,
+        "additional_info": {
+            "street_size": [
+                8.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-so-33-ngo-93-truong-chinh-o-to-tranh-via-he-2m-noi-that-100-lim-9174891.html",
+        "address": " Đường Trường Chinh, Phường Khương Thượng, Quận Đống Đa, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 52.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 5,
+        "house_type": "Nhà mặt tiền",
+        "price": 9.5,
+        "additional_info": {
+            "street_size": [
+                10.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-pho-trung-yen-cau-giay-dien-tich-46m2-mt-4m-gia-9-ty-9164945.html",
+        "address": " Đường Trung Yên, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 46.0,
+        "bedroom": 6,
+        "bathroom": null,
+        "floors": 6,
+        "house_type": "Nhà mặt tiền",
+        "price": 9.0,
+        "additional_info": {
+            "street_size": [
+                12.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/sdcc-can-ban-gap-55m2-dat-thuy-khue-tay-ho-2-55-ty--9225186.html",
+        "address": " Đường Thụy Khuê, Phường Thụy Khuê, Quận Tây Hồ, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 55.0,
+        "bedroom": 1,
+        "bathroom": null,
+        "floors": 1,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 2.55,
+        "additional_info": {
+            "street_size": [
+                2.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-gap-mua-dich-covid-nha-van-tien-dung-gan-ql-32-hiem-co-4-tang-2-9-ty-9116446.html",
+        "address": " số 15 Đường Cầu Diễn, Phường Cầu Diễn, Quận Nam Từ Liêm, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 40.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 2.9,
+        "additional_info": {
+            "street_size": [
+                3.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/can-2pn-1-55m2-view-ho-von-chi-330tr-nhan-nha-ngay-mien-lai-12-2023-vinhomes-ocean-park-9165711.html",
+        "address": " Đường Đa Tốn, Xã Kiêu Kỵ, Huyện Gia Lâm, Hà Nội",
+        "facade": null,
+        "direction": null,
+        "age": null,
+        "area": 55.0,
+        "bedroom": 2,
+        "bathroom": null,
+        "floors": 25,
+        "house_type": "Căn hộ chung cư",
+        "price": 1.94,
+        "additional_info": {
+            "street_size": []
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/hiem-mat-vuon-hoa-hoang-cau-tran-quang-dieu-75m2-8-tang-thang-may--9237090.html",
+        "address": " Phố Trần Quang Diệu, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+        "facade": 4.0,
+        "direction": null,
+        "age": null,
+        "area": 75.0,
+        "bedroom": 11,
+        "bathroom": null,
+        "floors": 8,
+        "house_type": "Biệt thự, nhà liền kề",
+        "price": 0.018000000000000002,
+        "additional_info": {
+            "street_size": [
+                10.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/ban-nha-pho-vong-hai-ba-trung-dien-tich-126m2-mt-11m-gia-23-5-ty-9172455.html",
+        "address": " Phố Vọng, Quận Hai Bà Trưng, Hà Nội",
+        "facade": 11.0,
+        "direction": null,
+        "age": null,
+        "area": 126.0,
+        "bedroom": 4,
+        "bathroom": null,
+        "floors": 4,
+        "house_type": "Nhà trong hẻm",
+        "price": 23.5,
+        "additional_info": {
+            "street_size": [
+                6.0
+            ]
+        }
+    },
+    {
+        "url": "https://alonhadat.com.vn/hot-can-tien-dau-tu-nen-ban-gap-lo-dat-100m-full-tho-cu-gia-re-hon-thi-truong-2-3gia-9224551.html",
+        "address": " Đại lộ Thăng Long, Xã Hạ Bằng, Huyện Thạch Thất, Hà Nội",
+        "facade": 5.0,
+        "direction": null,
+        "age": null,
+        "area": 100.0,
+        "bedroom": null,
+        "bathroom": null,
+        "floors": null,
+        "house_type": "Đất thổ cư, đất ở",
+        "price": 1.25,
+        "additional_info": {
+            "street_size": [
+                8.0
+            ]
+        }
+    },
+    [
+        {
+            "url": "https://alonhadat.com.vn/chinh-chu-to-ban-toa-nha-so-42-ngo-68-cau-giay-100m2-6-tang-thang-may-30-ty-canh-quan-uy-9237315.html",
+            "address": " Đường Cầu Giấy, Quận Cầu Giấy, Hà Nội",
+            "facade": null,
+            "direction": null,
+            "age": null,
+            "area": 100.0,
+            "bedroom": 4,
+            "bathroom": null,
+            "floors": 6,
+            "house_type": "Nhà mặt tiền",
+            "price": 30.0,
+            "additional_info": {
+                "street_size": [
+                    10.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-nha-phan-lo-van-phuc-via-he-oto-tranh-2-thoang-54m-mt5m-chi-14-25-ty-9233746.html",
+            "address": " Phố Vạn Phúc, Phường Liễu Giai, Quận Ba Đình, Hà Nội",
+            "facade": 5.0,
+            "direction": null,
+            "age": null,
+            "area": 54.0,
+            "bedroom": 4,
+            "bathroom": null,
+            "floors": 5,
+            "house_type": "Nhà trong hẻm",
+            "price": 14.25,
+            "additional_info": {
+                "street_size": [
+                    10.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-mat-pho-vu-trong-phung-70m2-x-5-tang-x-3-thoang-chi-25-ty--9214591.html",
+            "address": " 71 Đường Vũ Trọng Phụng, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",
+            "facade": 5.0,
+            "direction": null,
+            "age": null,
+            "area": 70.0,
+            "bedroom": 4,
+            "bathroom": null,
+            "floors": 5,
+            "house_type": "Nhà mặt tiền",
+            "price": 25.6,
+            "additional_info": {
+                "street_size": [
+                    12.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/chinh-chu-can-ban-160m2-dat-duong-nguyen-van-huyen-mat-tien-7-5m-gia-38-ty--9233829.html",
+            "address": " Đường Nguyễn Văn Huyên, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",
+            "facade": 7.5,
+            "direction": null,
+            "age": null,
+            "area": 160.0,
+            "bedroom": 2,
+            "bathroom": null,
+            "floors": 1,
+            "house_type": "Nhà mặt tiền",
+            "price": " 38 ngàn ",
+            "additional_info": {
+                "street_size": [
+                    1.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/chinh-chu-can-ban-toa-nha-building-van-phong-79-duong-le-duc-tho-110m2-x-9t-mat-tien-7m--9233766.html",
+            "address": " Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",
+            "facade": 7.0,
+            "direction": null,
+            "age": null,
+            "area": 110.0,
+            "bedroom": 7,
+            "bathroom": null,
+            "floors": 9,
+            "house_type": "Nhà mặt tiền",
+            "price": 32.0,
+            "additional_info": {
+                "street_size": [
+                    1.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/chu-thien-chi-ban-gap-nha-mat-pho-o-thai-ha-kinh-doanh-dinh-35m2-8-8-ty-co-thuong-luong-9223471.html",
+            "address": " Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",
+            "facade": 3.5,
+            "direction": null,
+            "age": null,
+            "area": 35.0,
+            "bedroom": 7,
+            "bathroom": null,
+            "floors": 5,
+            "house_type": "Nhà mặt tiền",
+            "price": 8.8,
+            "additional_info": {
+                "street_size": [
+                    15.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/sieu-pham-tuyen-2-tinh-lo-420-gia-gan-1-ty-mat-tien-6m-view-ho-xa-binh-yen-thach-that-9178006.html",
+            "address": " Tỉnh lộ 420, Xã Bình Yên, Huyện Thạch Thất, Hà Nội",
+            "facade": 6.5,
+            "direction": null,
+            "age": null,
+            "area": 70.0,
+            "bedroom": null,
+            "bathroom": null,
+            "floors": null,
+            "house_type": "Đất thổ cư, đất ở",
+            "price": 0.8,
+            "additional_info": {
+                "street_size": [
+                    6.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/sieu-hiem-view-tttm-thong-san-tmay-kdoanh-duong-noi-ha-dong-50m2x6t-gia-7-65-ty--9230876.html",
+            "address": " Phố Tố Hữu, Dương Nội, Hà Đông Đường Tố Hữu, Phường Dương Nội, Quận Hà Đông, Hà Nội",
+            "facade": 4.5,
+            "direction": null,
+            "age": null,
+            "area": 55.0,
+            "bedroom": 5,
+            "bathroom": null,
+            "floors": 6,
+            "house_type": "Nhà mặt tiền",
+            "price": 7.65,
+            "additional_info": {
+                "street_size": [
+                    25.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/mat-pho-40m2-5t-mt4m-nguyen-van-tuyet-tay-son-dong-da-nhinh-14-ty--9229187.html",
+            "address": " Phố Nguyễn Văn Tuyết, Phường Trung Liệt, Quận Đống Đa, Hà Nội",
+            "facade": 4.0,
+            "direction": null,
+            "age": null,
+            "area": 40.0,
+            "bedroom": 4,
+            "bathroom": null,
+            "floors": 5,
+            "house_type": "Nhà mặt tiền",
+            "price": 14.0,
+            "additional_info": {
+                "street_size": [
+                    7.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/chinh-chu-ban-biet-thu-song-lap-dt-144m2-kdt-lieco-bac-32-tram-troi-hoai-duc-hn-9230966.html",
+            "address": " Hà Nội Đường Quốc lộ 32, Thị trấn Trạm Trôi, Huyện Hoài Đức, Hà Nội",
+            "facade": null,
+            "direction": null,
+            "age": null,
+            "area": 144.0,
+            "bedroom": null,
+            "bathroom": null,
+            "floors": null,
+            "house_type": "Biệt thự, nhà liền kề",
+            "price": 8.4,
+            "additional_info": {
+                "street_size": [
+                    13.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-nha-mat-pho-doan-ke-thien-cau-giay-ha-noi-120m2-kinh-doanh-sam-uat-gia-16-ty--8568445.html",
+            "address": " Đường Cổ Nhuế, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",
+            "facade": 5.0,
+            "direction": null,
+            "age": null,
+            "area": 139.0,
+            "bedroom": 8,
+            "bathroom": null,
+            "floors": 5,
+            "house_type": "Nhà mặt tiền",
+            "price": 10.5,
+            "additional_info": {
+                "street_size": [
+                    10.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-nha-pho-vong-hai-ba-trung-dien-tich-126m2-mt-11m-gia-23-5-ty-9172455.html",
+            "address": " Phố Vọng, Quận Hai Bà Trưng, Hà Nội",
+            "facade": 11.0,
+            "direction": null,
+            "age": null,
+            "area": 126.0,
+            "bedroom": 4,
+            "bathroom": null,
+            "floors": 4,
+            "house_type": "Nhà trong hẻm",
+            "price": 23.5,
+            "additional_info": {
+                "street_size": [
+                    6.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-nha-3-tang-dung-1-ty-090-tr-bao-ten-cach-de-yen-nghia-50m-trung-tam-ha-dong-7100031.html",
+            "address": " Đường Lê Trọng Tấn, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",
+            "facade": 4.0,
+            "direction": "Đông Nam",
+            "age": null,
+            "area": 31.0,
+            "bedroom": 3,
+            "bathroom": null,
+            "floors": 3,
+            "house_type": "Nhà mặt tiền",
+            "price": 1.5,
+            "additional_info": {
+                "street_size": [
+                    3.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/nhieu-nha-ban-bot-2n2wc-goc-view-vinuni-2-15-ty-9220148.html",
+            "address": " Đường Quốc lộ 5B, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",
+            "facade": null,
+            "direction": null,
+            "age": null,
+            "area": 80.0,
+            "bedroom": 2,
+            "bathroom": null,
+            "floors": 15,
+            "house_type": "Căn hộ chung cư",
+            "price": 2.15,
+            "additional_info": {
+                "street_size": []
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-nha-tho-quan-28m2-4-tang-chi-2-3-ty-cach-100m-oto-do-9220412.html",
+            "address": " 15 Đường Thổ Quan, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+            "facade": 3.6,
+            "direction": null,
+            "age": null,
+            "area": 28.0,
+            "bedroom": 3,
+            "bathroom": null,
+            "floors": 4,
+            "house_type": "Nhà trong hẻm",
+            "price": 2.3,
+            "additional_info": {
+                "street_size": [
+                    2.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/nha-dep-nhu-ngoc-trinh-40m2-x-4-tang-ngo-rong-thoang-gan-o-to-tang-90-noi-that-8200353.html",
+            "address": " Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",
+            "facade": null,
+            "direction": null,
+            "age": null,
+            "area": 40.0,
+            "bedroom": 4,
+            "bathroom": null,
+            "floors": 4,
+            "house_type": "Nhà trong hẻm",
+            "price": 3.65,
+            "additional_info": {
+                "street_size": [
+                    2.5
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/sieu-hiem-nha-mat-pho-trich-sai-tay-ho-dien-tich-55m2-view-ho-tay-gia-16ty980-9229800.html",
+            "address": " Phố Trích Sài, Phường Bưởi, Quận Tây Hồ, Hà Nội",
+            "facade": null,
+            "direction": null,
+            "age": null,
+            "area": 55.0,
+            "bedroom": 4,
+            "bathroom": null,
+            "floors": 5,
+            "house_type": "Nhà mặt tiền",
+            "price": 16.98,
+            "additional_info": {
+                "street_size": [
+                    12.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-nha-mat-pho-thanh-nhan-hai-ba-trung-180m2-1-tang-mt-10m-gia-13-3-ty--9235141.html",
+            "address": " Đường Thanh Nhàn, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",
+            "facade": 10.0,
+            "direction": null,
+            "age": null,
+            "area": 180.0,
+            "bedroom": 2,
+            "bathroom": null,
+            "floors": 1,
+            "house_type": "Nhà mặt tiền",
+            "price": 13.3,
+            "additional_info": {
+                "street_size": [
+                    16.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-nha-phan-lo-van-phuc-via-he-oto-tranh-2-thoang-54m-mt5m-chi-14-25-ty-9233736.html",
+            "address": " Phố Vạn Phúc, Phường Liễu Giai, Quận Ba Đình, Hà Nội",
+            "facade": 5.0,
+            "direction": null,
+            "age": null,
+            "area": 54.0,
+            "bedroom": 4,
+            "bathroom": null,
+            "floors": 5,
+            "house_type": "Nhà trong hẻm",
+            "price": 14.25,
+            "additional_info": {
+                "street_size": [
+                    10.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/hot-hot-hot-giam-3-ty-ban-nha-200m-10-tang-2mt-mat-ho-tmay-5-o-to-dong-tien-3-3-ty-nam-9058875.html",
+            "address": " Đường Nguyễn Xiển, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội",
+            "facade": 8.0,
+            "direction": null,
+            "age": null,
+            "area": 200.0,
+            "bedroom": 22,
+            "bathroom": null,
+            "floors": 10,
+            "house_type": "Nhà mặt tiền",
+            "price": 39.9,
+            "additional_info": {
+                "street_size": [
+                    6.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-nha-hoang-van-thai-75mx4t-mt-5m-lo-goc-o-to-tranh-2-thoang-gia-8-6-ti-9232665.html",
+            "address": " Phố Hoàng Văn Thái, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",
+            "facade": 5.0,
+            "direction": null,
+            "age": null,
+            "area": 75.0,
+            "bedroom": 4,
+            "bathroom": null,
+            "floors": 4,
+            "house_type": "Nhà trong hẻm",
+            "price": 8.6,
+            "additional_info": {
+                "street_size": [
+                    6.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/duy-nhat-hiem-co-1-02-nha-mat-ngo-kinh-doanh-sam-uat-trung-tam-quan-dong-da-9076742.html",
+            "address": " Phố Tôn Thất Tùng, Phường Khương Thượng, Quận Đống Đa, Hà Nội",
+            "facade": 4.6,
+            "direction": null,
+            "age": null,
+            "area": 47.0,
+            "bedroom": 2,
+            "bathroom": null,
+            "floors": 2,
+            "house_type": "Nhà trong hẻm",
+            "price": 5.5,
+            "additional_info": {
+                "street_size": [
+                    2.6
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-gap-ba-dinh-10m-ra-pho-dong-tien-200tr-6-tang-thang-may-11-ty--9236124.html",
+            "address": " Đường Giảng Võ, Phường Giảng Võ, Quận Ba Đình, Hà Nội",
+            "facade": null,
+            "direction": null,
+            "age": null,
+            "area": 55.0,
+            "bedroom": 10,
+            "bathroom": null,
+            "floors": 6,
+            "house_type": "Nhà mặt tiền",
+            "price": 11.0,
+            "additional_info": {
+                "street_size": [
+                    2.5
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/3-mat-thoang-vinh-vien-oto-5m-5-2-ty-dh-su-pham-9235361.html",
+            "address": " Đường Xuân Thủy, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",
+            "facade": 4.0,
+            "direction": null,
+            "age": null,
+            "area": 42.0,
+            "bedroom": 4,
+            "bathroom": null,
+            "floors": 4,
+            "house_type": "Nhà trong hẻm",
+            "price": 5.2,
+            "additional_info": {
+                "street_size": [
+                    4.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-dat-duong-vai-reo-dien-tich-100m-doi-dien-nha-may-in-tien-8785617.html",
+            "address": " Đường Phú Cát, Xã Phú Cát, Huyện Quốc Oai, Hà Nội",
+            "facade": null,
+            "direction": null,
+            "age": null,
+            "area": 100.0,
+            "bedroom": null,
+            "bathroom": null,
+            "floors": null,
+            "house_type": "Đất thổ cư, đất ở",
+            "price": 1.8,
+            "additional_info": {
+                "street_size": [
+                    16.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-gap-nha-dep-nguyen-xien-chi-dung-3-ty-co-nha-5-tang-2-thoang-ngo-thong-kinh-doanh-9236690.html",
+            "address": " Đường Nguyễn Xiển, Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội",
+            "facade": 3.0,
+            "direction": null,
+            "age": null,
+            "area": 30.0,
+            "bedroom": 3,
+            "bathroom": null,
+            "floors": 5,
+            "house_type": "Nhà mặt tiền",
+            "price": 3.0,
+            "additional_info": {
+                "street_size": [
+                    4.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/can-ban-nha-p-ton-that-tung-q-dong-da-dt-50m-gia-5-6ty-9129440.html",
+            "address": " Phố Tôn Thất Tùng, Phường Ngã Tư Sở, Quận Đống Đa, Hà Nội",
+            "facade": null,
+            "direction": null,
+            "age": null,
+            "area": 50.0,
+            "bedroom": 4,
+            "bathroom": null,
+            "floors": 2,
+            "house_type": "Nhà trong hẻm",
+            "price": 5.6,
+            "additional_info": {
+                "street_size": [
+                    3.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-nha-mat-pho-xa-dan-mat-tien-to-vat-dang-cho-thue-130-tr-tren-thang-6579173.html",
+            "address": " Phố Xã Đàn, Phường Trung Phụng, Quận Đống Đa, Hà Nội",
+            "facade": 8.0,
+            "direction": null,
+            "age": null,
+            "area": 60.0,
+            "bedroom": 5,
+            "bathroom": null,
+            "floors": 6,
+            "house_type": "Nhà mặt tiền",
+            "price": 29.0,
+            "additional_info": {
+                "street_size": [
+                    8.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/-130-ty-400m-dat-mat-tien-15m-mat-pho-lo-duc--9234793.html",
+            "address": " Phố Lò Đúc, Phường Phạm Đình Hổ, Quận Hai Bà Trưng, Hà Nội",
+            "facade": 15.0,
+            "direction": null,
+            "age": null,
+            "area": 400.0,
+            "bedroom": 1,
+            "bathroom": null,
+            "floors": 1,
+            "house_type": "Đất thổ cư, đất ở",
+            "price": 130.0,
+            "additional_info": {
+                "street_size": [
+                    30.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-nha-le-duc-tho-50m2-gia-nhinh-3-ty-ngo-oto-oto-tranh-20m--9215717.html",
+            "address": " Đường Lê Đức Thọcầu giấy Đường Lê Đức Thọ, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",
+            "facade": null,
+            "direction": null,
+            "age": null,
+            "area": 80.0,
+            "bedroom": 5,
+            "bathroom": null,
+            "floors": 4,
+            "house_type": "Nhà mặt tiền",
+            "price": 5.0,
+            "additional_info": {
+                "street_size": [
+                    4.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-lo-dat-tai-dinh-cu-thach-hoa-truc-chinh-vao-kdt-phu-cat-city-127m2-mat-tien-5m-8724705.html",
+            "address": " Đại lộ Thăng Long, Xã Thạch Hòa, Huyện Thạch Thất, Hà Nội",
+            "facade": 5.0,
+            "direction": null,
+            "age": null,
+            "area": 127.0,
+            "bedroom": null,
+            "bathroom": null,
+            "floors": null,
+            "house_type": "Đất thổ cư, đất ở",
+            "price": 3.3655,
+            "additional_info": {
+                "street_size": [
+                    8.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-nha-pho-trung-kinh-kinh-doanh-via-he-phan-lo-o-to-tranh-85m2-6t-nhinh-22-ty-9227895.html",
+            "address": " 80 Phố Trung Kính, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",
+            "facade": null,
+            "direction": null,
+            "age": null,
+            "area": 85.0,
+            "bedroom": null,
+            "bathroom": null,
+            "floors": 6,
+            "house_type": "Nhà trong hẻm",
+            "price": 22.0,
+            "additional_info": {
+                "street_size": [
+                    0.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/can-ban-nha-pho-nguyen-van-cu-120m2-via-he-3m-ngo-o-to-tranh-tien-ich-khung-gia-re--9220335.html",
+            "address": " Đường Ngọc Lâm, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",
+            "facade": 6.5,
+            "direction": null,
+            "age": null,
+            "area": 120.0,
+            "bedroom": 5,
+            "bathroom": null,
+            "floors": 5,
+            "house_type": "Nhà trong hẻm",
+            "price": 14.5,
+            "additional_info": {
+                "street_size": [
+                    5.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-nhanh-nha-mat-pho-kinh-doanh-da-dang-o-to-tranh-chi-100m-ra-pho-tan-mai--9234808.html",
+            "address": " Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",
+            "facade": 4.0,
+            "direction": null,
+            "age": null,
+            "area": 40.0,
+            "bedroom": 5,
+            "bathroom": null,
+            "floors": 5,
+            "house_type": "Nhà mặt tiền",
+            "price": 6.6,
+            "additional_info": {
+                "street_size": [
+                    5.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/hot-hot-can-tien-ban-gap-nha-mat-ngo-109-bo-de-gara-oto-dt50m2-x5t-6pn-gia-6xxty-9234327.html",
+            "address": " Long Biên Phố Bồ Đề, Phường Bồ Đề, Quận Long Biên, Hà Nội",
+            "facade": 5.0,
+            "direction": null,
+            "age": null,
+            "area": 50.0,
+            "bedroom": 6,
+            "bathroom": null,
+            "floors": 5,
+            "house_type": "Nhà mặt tiền",
+            "price": 4.2,
+            "additional_info": {
+                "street_size": [
+                    30.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-nha-ngo-401-xuan-dinh-bac-tu-liem-moi-sieu-dep-gia-re-40m2-5-tang--9234729.html",
+            "address": " Xuân Đỉnh, Bắc Từ Liêm Đường Xuân Đỉnh, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",
+            "facade": 4.0,
+            "direction": null,
+            "age": null,
+            "area": 40.0,
+            "bedroom": 5,
+            "bathroom": null,
+            "floors": 5,
+            "house_type": "Nhà trong hẻm",
+            "price": 3.3,
+            "additional_info": {
+                "street_size": [
+                    5.0
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/ban-nha-lo-goc-pho-yen-hoa-5-tang-gia-5-7-ty-cau-giay-cach-pho-50m-tang-full-do--9192818.html",
+            "address": " 23 Đường Yên Hòa, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",
+            "facade": 4.8,
+            "direction": null,
+            "age": null,
+            "area": 48.0,
+            "bedroom": 6,
+            "bathroom": null,
+            "floors": 5,
+            "house_type": "Nhà trong hẻm",
+            "price": 5.7,
+            "additional_info": {
+                "street_size": [
+                    3.5
+                ]
+            }
+        },
+        {
+            "url": "https://alonhadat.com.vn/vo-no-can-ban-nha-rieng-quan-hai-ba-trung-64m-gara-7-cho-kinh-doanh-9211755.html",
+            "address": " Đường Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",
+            "facade": 4.2,
+            "direction": null,
+            "age": null,
+            "area": 65.0,
+            "bedroom": 4,
+            "bathroom": null,
+            "floors": 3,
+            "house_type": "Nhà mặt tiền",
+            "price": 9.45,
+            "additional_info": {
+                "street_size": [
+                    4.0
+                ]
+            }
+        },
