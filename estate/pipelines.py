@@ -6,9 +6,6 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
-from scrapy.exceptions import DropItem
-
-from estate.items import EstateItem
 
 
 class EstatePipeline:
