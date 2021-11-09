@@ -10,7 +10,7 @@ try:
             'crawl',
             'alonhadat',
             '-o',
-            'alo_nha_dat.csv',
+            '../resources/alo_nha_dat.csv',
         ]
     )
 except SystemExit:
