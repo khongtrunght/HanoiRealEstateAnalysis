@@ -8,7 +8,7 @@ try:
         [
             'scrapy',
             'crawl',
-            'alonhadat',
+            'chotot',
             '-o',
             'out.csv',
         ]

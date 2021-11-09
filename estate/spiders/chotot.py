@@ -7,19 +7,6 @@ class ChototSpider(scrapy.Spider):
     allowed_domains = ['https://nha.chotot.com/ha-noi']
     start_urls = [f'https://nha.chotot.com/ha-noi/mua-ban-nha-dat?page={i}' for i in range(1,3)]
 
-    custom_settings = {
-        "ITEM_PIPELINES": {
-            'estate.pipelines.EstatePipeline': 300
-        },
-        "SELENIUM_DRIVER_NAME": 'chrome',
-        "SELENIUM_DRIVER_EXECUTABLE_PATH": 'C:/Users/pn021/Downloads/Compressed/chromedriver.exe',
-        "SELENIUM_DRIVER_ARGUMENTS": [],  # ['--headless']
-
-        "DOWNLOADER_MIDDLEWARES": {
-            'scrapy_selenium.SeleniumMiddleware': 800
-        },
-    }
-
 
 
     def start_requests(self):
