@@ -8,9 +8,9 @@ try:
         [
             'scrapy',
             'crawl',
-            'alonhadat',
+            'batdongsan',
             '-o',
-            'alo_nha_dat.csv',
+            '../resources/data/web1.csv',
         ]
     )
 except SystemExit:
