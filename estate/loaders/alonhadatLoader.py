@@ -4,6 +4,12 @@ from ..items import EstateItem, AdditionalInfo
 
 
 def take_first_string(string):
+    """
+    Get the first word in string
+
+    :param string: input string
+    :return: first word in string
+    """
     if isinstance(string, str):
         return string.split()[0]
     else:
@@ -11,6 +17,12 @@ def take_first_string(string):
 
 
 def check_none(string):
+    """
+    Check if the input string is None in some diffirent format
+
+    :param string: input string
+    :return: return string if not None else None
+    """
     if string in (',m', '_', "---", ''):
         return None
     else:
@@ -18,6 +30,13 @@ def check_none(string):
 
 
 def float_process(string):
+    """
+    Convert input string to float if possible
+
+    :param string: input string of type abc.xyz
+    :return: float number
+    :except: return original string
+    """
     try:
         return float(string.replace(",", "."))
     except ValueError:
@@ -25,6 +44,13 @@ def float_process(string):
 
 
 def int_process(string):
+    """
+        Convert input string to integer if possible
+
+        :param string: input string of type abc.xyz
+        :return: integer number
+        :except: return original string
+        """
     try:
         return int(string)
     except ValueError:
@@ -32,6 +58,12 @@ def int_process(string):
 
 
 def direction_process(string):
+    """
+    Preprocess for direction attribute
+
+    :param string: input string
+    :return: well-formated string
+    """
     if string == '_':
         return None
     else:
@@ -39,6 +71,12 @@ def direction_process(string):
 
 
 def facade_process(string):
+    """
+        Preprocess for facade attribute
+
+        :param string: input string
+        :return: well-formated string
+    """
     if string == "---":
         return None
     else:
@@ -46,17 +84,29 @@ def facade_process(string):
 
 
 def bedroom_process(string):
+    """
+        Preprocess for bedroom attribute
+
+        :param string: input string
+        :return: well-formated string
+    """
     if string == "---":
         return None
     else:
         return string
 
+
 def street_process(string):
+    """
+        Preprocess for street attribute
+
+        :param string: input string
+        :return: well-formated string
+    """
     if string == '---':
         return None
     else:
         return float_process(string[:-1])
-
 
 
 class AlonhadatLoader(ItemLoader):
@@ -82,8 +132,6 @@ class AlonhadatLoader(ItemLoader):
     address_out = Join()
 
     street_size_in = MapCompose(street_process)
-
-
 
 
 class AdditionalLoader(ItemLoader):

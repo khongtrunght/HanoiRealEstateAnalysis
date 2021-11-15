@@ -6,6 +6,7 @@ from estate.items import AdditionalInfo, EstateItem
 
 
 class AlonhadatSpider(scrapy.Spider):
+    """ Spider to scrape alonhadat.com.vn website"""
     name = 'alonhadat'
     allowed_domains = ['alonhadat.com.vn']
     start_urls = [
@@ -20,6 +21,10 @@ class AlonhadatSpider(scrapy.Spider):
 
 
     def parse(self, response):
+        """
+        Parse the response ( Get all estate in page)
+        :param response: the response when follow link in start_urls
+        """
         estates = response.css('div.content-item')
         for estate in estates:
             estate_loader = AlonhadatLoader(item=EstateItem(), selector=estate)
@@ -29,6 +34,11 @@ class AlonhadatSpider(scrapy.Spider):
             yield scrapy.Request(url, callback=self.parse_detail, meta={'item': estate_loader.load_item()})
 
     def parse_detail(self, response):
+        """
+        Parse for each sub content in website ( here is an estate )
+        :param response: content contains information of estate
+        :return: return an item of EstateItem type
+        """
         estate_loader = AlonhadatLoader(
             item=response.meta['item'], response=response)
         estate_loader.add_css('address', "div.address>span.value::text")

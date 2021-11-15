@@ -13,6 +13,13 @@ from estate.items import EstateItem
 
 class EstatePipeline:
     def process_item(self, item, spider):
+        """
+
+        :param item: input item
+        :param spider: current spider
+        :return: item after process
+        :type item: EstateItem
+        """
         estate = ItemAdapter(item)
         if estate.get('price'):
             if isinstance(estate['price'], str):
