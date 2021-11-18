@@ -30,9 +30,20 @@ def area_process(string):
 def price_process(string):
     if string is not None:
         if 'triệu' in string:
-            return float(string[:-6].replace(',','.'))*0.001
+            return round(float(string[:-6].replace(',','.'))*0.001,5)
         elif 'tỷ' in string:
             return float(string[:-3].replace(',','.'))
+    else:
+        return string
+
+def price_m2_process(string):
+    if string is not None:
+        if "triệu/m²" in string:
+            return round(float(string[:-8].replace(',','.'))*0.001,5)
+
+        else:
+            return string
+
     else:
         return string
 
@@ -54,6 +65,8 @@ class test(scrapy.Spider):
 
     name = "chotot"
     start_urls = [f'https://nha.chotot.com/ha-noi/mua-ban-nha-dat?page={i}' for i in range(1, 870)]
+    start_urls = [f'https://nha.chotot.com/ha-noi/mua-ban-can-ho-chung-cu?page={i}' for i in range(1, 900)]
+
     def start_requests(self):
         for url in self.start_urls:
             yield SeleniumRequest(url=url, callback=self.parse)
@@ -70,13 +83,16 @@ class test(scrapy.Spider):
         price = response.xpath("//span[contains(@itemprop, 'price')]/text()").extract_first()
         item['price'] = price_process(price)
 
+        priceperarea = response.xpath("//span[contains(@itemprop, 'price_m2')]/text()").extract_first()
+        item['price_m2'] = price_m2_process(priceperarea)
+
         item['address'] = response.xpath("//span[@class = 'fz13']/text()").extract_first()
 
         numFloor = response.xpath("//span[@itemprop = 'floors']/text()").extract_first()
         if numFloor is not None:
             item['numFloor'] = int(numFloor)
         else:
-            item['numFloor'] = numFloor
+            item['numFloor'] = 1
 
         numBed = response.xpath("//span[@itemprop = 'rooms']/text()").extract_first()
         item['numBed'] = room_process(numBed)
@@ -84,9 +100,11 @@ class test(scrapy.Spider):
         item['numBath'] = room_process(numBath)
         item['direction'] = response.xpath("//span[@itemprop = 'direction']/text()").extract_first()
         item['type'] = response.xpath("//span[@itemprop = 'name']/text()").extract()[3]
-        item['type_detail'] = response.xpath("//span[@itemprop = 'house_type']/text()").extract_first()
-        item['property_road'] = response.xpath("//span[@itemprop = 'property_road_condition']/text()").extract_first()
-        item['property_back'] = response.xpath("//span[@itemprop = 'property_back_condition']/text()").extract_first()
+        # item['type_detail'] = response.xpath("//span[@itemprop = 'house_type']/text()").extract_first()
+        item['type_detail'] = response.xpath("//span[@itemprop = 'apartment_type']/text()").extract_first()
+        # item['property_road'] = response.xpath("//span[@itemprop = 'property_road_condition']/text()").extract_first()
+        # item['property_back'] = response.xpath("//span[@itemprop = 'property_back_condition']/text()").extract_first()
+        item['floornumber'] = response.xpath("//span[@itemprop = 'floornumber']/text()").extract_first()
         item['furniture'] = response.xpath("//span[@itemprop = 'furnishing_sell']/text()").extract_first()
         item['url'] = response.xpath("//link[@rel = 'canonical']//@href").extract_first()
         yield item

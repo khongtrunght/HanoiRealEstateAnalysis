@@ -10,7 +10,8 @@ try:
             'crawl',
             'chotot',
             '-o',
-            'out.csv',
+            'out_department.csv',
+            #out_house.csv
         ]
     )
 except SystemExit:
