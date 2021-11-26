@@ -17,8 +17,8 @@ log.setLevel(logging.INFO)
 
 
 API_KEY = '5G2-u4rtJ9Vc7Jq27Xxo65RXBG7F9BlmDEywfv8IxCE'
-FILE_PATH = "resources/data/alo_nha_dat.csv"
-SAVE_PATH = ""
+FILE_PATH = "resources/data/out_house.csv"
+SAVE_PATH = "resources/data/out_house_lat_long.csv"
 request_link = "https://geocode.search.hereapi.com/v1/geocode?q={}&apiKey={}"
 
 batdongsan_df = pd.read_csv(FILE_PATH)
@@ -80,4 +80,4 @@ request_links = ((i, request_link.format(
 asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 asyncio.run(rate_limit_class(urls=request_links, rate=1.3, limit=5))
 
-batdongsan_df.to_excel(SAVE_PATH, index=False)
+batdongsan_df.to_csv(SAVE_PATH, index=False)
