@@ -12,6 +12,7 @@ from estate.items import EstateItem
 
 
 class EstatePipeline:
+    """Define some logic to calculate price if input price is price per square"""
     def process_item(self, item, spider):
         """
 
@@ -41,4 +42,12 @@ class EstatePipeline:
 
 
 def price_process(string: str):
+    """Convert string to float
+
+    Args:
+        string (str): raw price
+
+    Returns:
+        float: float price
+    """
     return float(string.split()[0].replace(",", "."))

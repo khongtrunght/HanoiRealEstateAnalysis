@@ -22,6 +22,14 @@ request_link = "https://geocode.search.hereapi.com/v1/geocode?q={}&apiKey={}"
 
 
 def main(FILE_PATH, SAVE_PATH, API_KEY="QQUQPZqYkIiEniTsfYkg9X_fm7m3iAsPNVgXu8glsCQ"):
+    """Use hereapi to get lat lon from address
+
+    Args:
+        FILE_PATH (str): path of input file (csv or xlsx)
+        SAVE_PATH (str): path of output file (csv or xlsx)
+        API_KEY (str, optional): API key . Defaults to "QQUQPZqYkIiEniTsfYkg9X_fm7m3iAsPNVgXu8glsCQ".
+
+    """
     if FILE_PATH[-4:] == "xlsx":
         batdongsan_df = pd.read_excel(FILE_PATH)
     elif FILE_PATH[-3:] == "csv":
@@ -49,6 +57,14 @@ def main(FILE_PATH, SAVE_PATH, API_KEY="QQUQPZqYkIiEniTsfYkg9X_fm7m3iAsPNVgXu8gl
             return (idx, js)
 
     async def rate_limit_class(urls, rate, limit):
+        """Use api in rate limit
+            Send (rate) requests per (limit) seconds
+
+        Args:
+            urls (list): list of input urls
+            rate (int): rate
+            limit (float): limit
+        """
         limit = asyncio.Semaphore(limit)
 
         f = Fetch(

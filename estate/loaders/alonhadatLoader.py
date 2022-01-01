@@ -110,6 +110,9 @@ def street_process(string):
 
 
 class AlonhadatLoader(ItemLoader):
+    """Define the default process for Alonhadat
+
+    """
     default_item_class = EstateItem
     default_input_processor = MapCompose(lambda s: s.strip())
     default_output_processor = TakeFirst()

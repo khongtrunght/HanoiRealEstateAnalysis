@@ -15,6 +15,8 @@ class AdditionalInfo():
 
 @dataclass
 class EstateItem():
+    """field for EstateItem
+    """
     url: Optional[str] = field(default=None)
     address: Optional[str] = field(default=None)
     facade: Optional[float] = field(default=None)
