@@ -12,9 +12,16 @@ pip install -r requirements.txt
 
 ## Usage
 
+For scrape data parse args to the terminal .
+Scrape : name of spider file Eg. alonhadat
+Output : name of output file Eg. output.csv
+
 ```bash
-python runner.py
+python runner.py -s alonhadat -o output.csv
 ```
+
+
+to Run data processing and eda, go to report for more information
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
