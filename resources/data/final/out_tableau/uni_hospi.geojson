@@ -1,0 +1,1237 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85797,21.0216 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Thủ đô Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85464,21.02888 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại Học Giáo dục - ĐHQG Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.74768,20.95932 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Phenikaa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.77854,21.01594 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Âm nhạc Quốc gia Việt Nam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7897,21.03733 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Báo chí Tuyên truyền"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.80911,21.02105 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Luật Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8338,21.03103 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Sư phạm Thể dục thể thao Hà nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.78928,20.98071 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Kiến trúc Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.77371,21.03753 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Thương mại"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.82824,21.0084 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Ngân hàng"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.73493,21.05294 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Công nghiệp Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84698,21.00393 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Bách khoa Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.82956,21.00183 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Y Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.80947,20.99636 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Quốc gia Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.80129,21.03622 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Sư phạm Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.79425,21.01616 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Phương Đông"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85464,21.02888 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Công nghệ - ĐHQG Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.83422,20.98819 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Khoa học Quân sự"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.83375,21.02979 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Tài chính"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.93002,21.07478 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Công nghệ Đông Á"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.82615,21.02881 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Y tế Công cộng"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.79311,20.98439 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Y Dược học cổ truyền Việt Nam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.82634,21.0127 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Thành Đô"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.83866,20.99085 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Quản lý Giáo dục"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.80583,21.0235 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Ngoại thương"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.82348,21.02241 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Mỹ thuật Công nghiệp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8486,20.98354 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Khoa Quốc tế - ĐHQG Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.82427,21.00879 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Thủy lợi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.44478,21.1106 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Công nghiệp Việt Hung"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.83083,20.98553 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Mở Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.86633,20.98846 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Kinh tế Kỹ thuật Công nghiệp Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84198,21.00392 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Xây dựng"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.44042,21.11323 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Lao động Xã hội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7745,21.07211 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Mỏ Địa chất Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84571,20.99909 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Kinh tế - ĐHQG Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.76629,21.01933 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Nguyễn Trãi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.87559,21.06812 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học Viện Hậu Cần"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7867,21.07697 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Tài chính - Ngân hàng Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.80673,21.02332 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Ngoại giao"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.80794,20.99491 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại Học Khoa học Xã hội và Nhân văn - ĐHQG Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85004,21.03355 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Công nghệ và Quản lý Hữu Nghị"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.82956,21.00183 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85464,21.02888 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Khoa Y Dược - ĐHQG Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85816,21.02109 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại Học Khoa học Tự nhiên - ĐHQG Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.80054,21.04637 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Khoa học và Công nghệ Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.83082,21.02041 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Đông Đô"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.80759,21.01843 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Giao thông vận tải"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.82229,21.02278 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Văn hóa Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84779,21.00124 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Nội vụ Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.75698,20.94827 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học  Đại Nam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.83646,21.0269 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Hành chính Quốc gia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85797,21.0216 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Dược Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.80759,21.01918 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Phụ nữ Việt Nam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84312,21.02173 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Mỹ thuật Việt Nam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.78922,21.03865 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Ngoại ngữ - ĐHQG Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.79801,21.01642 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Hòa Bình"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.78772,20.98014 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Công nghệ Bưu chính Viễn thông"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.93302,21.00649 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Nông nghiệp Việt Nam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.73493,21.05294 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Công nghiệp Dệt may Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.52679,21.01214 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học FPT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.80953,21.02248 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Thanh Thiếu niên Việt Nam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7932,21.02432 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Sân khấu Điện ảnh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7933,20.98454 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Sư phạm Nghệ thuật Trung ương Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.79891,20.98528 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Công nghệ Giao thông vận tải"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.70963,20.809 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Tòa án"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.87708,21.00004 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Kinh doanh và Công nghệ Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7843,21.0267 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Chính sách và Phát triển"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.57736,20.91072 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Lâm nghiệp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84571,20.99909 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Kinh tế Quốc dân"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.79534,20.98026 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Học viện Kỹ thuật Mật mã"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85464,21.02888 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Khoa Luật - ĐHQG Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.81625,20.97626 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Thăng Long"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85464,21.02888 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Kiểm sát Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.82491,21.01004 ]
+    },
+    "properties": {
+    "type":"University",
+    "name":"Đại học Công đoàn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84924,21.01741 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện mắt TƯ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.80904,21.02466 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện Nhi TƯ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85046,20.99865 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện Tâm thần"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84998,20.96103 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Trung tâm mắt Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.78876,21.02527 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Viện huyết học truyền máu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84116,21.00197 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện bạch mai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85464,21.02888 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bênh viện U bướu Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.93806,21.02054 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Trung tâm y tế Gia Lâm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.81976,21.00886 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện Châm Cứu TƯ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.79141,20.96638 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Viện bỏng Lê Hữu Trác"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85611,21.00289 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện Thanh Nhàn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85464,21.02888 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện E, Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.83195,21.13262 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Trung tâm y tế Đông Anh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.80835,21.02682 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện phụ sản Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.83157,21.03285 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Trung tâm Y tế Sóc Sơn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8582,21.00288 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Trung tâm chống Lao Hà NộI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.83014,20.9075 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Trung tâm Y tế huyện Thanh Trì"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.65343,21.08824 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh Viện Khu vực 1 Nông Nghiệp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8276,21.01479 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện Đống Đa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84124,21.00117 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Viện Y học lâm sàng các bệnh nhiệt đới"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84692,20.99897 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Viện tim mạch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.846,20.98367 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện tai mũi họng TƯ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85697,21.16279 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện Bắc Thăng Long"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.846,21.02741 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện K"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84846,21.01596 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện Y học Cổ truyền TW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.83861,21.02817 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Viện da liễu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.81412,21.04341 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện Lao và bệnh phổi TƯ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.81548,21.01023 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện nội tiết"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7894,20.99534 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Viện y học cổ truyền TƯ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85024,21.02498 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện Việt Nam – Cu ba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.846,21.02741 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện Việt Đức"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.83581,21.0316 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện Xanh-Pôn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.86235,21.01594 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện Hữu Nghị"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.90891,21.03405 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện tâm thần Hà Nội"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84116,21.00197 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Viện sức khỏe tâm thần"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.83989,21.00418 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Viện lão khoa Quốc Gia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.80058,21.02648 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Bệnh viện GTVT TƯ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.80764,21.00039 ]
+    },
+    "properties": {
+    "type":"Hospital",
+    "name":"Viện Răng Hàm Mặt Trung Ương"
+    }
+  }
+]
+}

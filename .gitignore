@@ -1,5 +1,5 @@
-#**/*.csv
+**/*.csv
 **/*.json
-*.csv
-resources/
-driver/
+**/*.exe
+**/*.xlsx
+*.exe

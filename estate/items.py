@@ -7,19 +7,27 @@ import scrapy
 from dataclasses import dataclass, field
 from typing import Optional
 
-class EstateItem(scrapy.Item):
-    area = scrapy.Field()
-    price = scrapy.Field()
-    address = scrapy.Field()
-    numFloor = scrapy.Field()
-    numBed = scrapy.Field()
-    numBath = scrapy.Field()
-    direction = scrapy.Field()
-    type = scrapy.Field()
-    type_detail = scrapy.Field()
-    # property_road = scrapy.Field()
-    # property_back = scrapy.Field()
-    furniture = scrapy.Field()
-    url = scrapy.Field()
-    # floornumber =scrapy.Field()
-    # price_m2 = scrapy.Field()
+
+@dataclass
+class AdditionalInfo():
+    street_size: Optional[float] = field(default=None)
+
+
+@dataclass
+class EstateItem():
+    """field for EstateItem
+    """
+    url: Optional[str] = field(default=None)
+    address: Optional[str] = field(default=None)
+    facade: Optional[float] = field(default=None)
+    direction: Optional[str] = field(default=None)
+    age: Optional[int] = field(default=None)
+    area: Optional[float] = field(default=None)
+    bedroom: Optional[int] = field(default=None)
+    bathroom: Optional[int] = field(default=None)
+    floors: Optional[int] = field(default=None)
+    house_type: Optional[str] = field(default=None)
+    price: Optional[float] = field(default=None)
+    # additional_info: Optional[AdditionalInfo] = field(default=None)
+    street_size: Optional[float] = field(default=None)
+    # additional_info = scrapy.Field(serializer=AdditionalInfo)

@@ -8,10 +8,9 @@ try:
         [
             'scrapy',
             'crawl',
-            'chotot',
+            'batdongsan',
             '-o',
-            # 'out_department2.csv',
-            'Out.csv'
+            '../resources/data/web1.csv',
         ]
     )
 except SystemExit:

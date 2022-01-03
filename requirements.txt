@@ -1,0 +1,5 @@
+scrapy
+scrapy-selenium
+findspark
+openpyxl
+pandas
