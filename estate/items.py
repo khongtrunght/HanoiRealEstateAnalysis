@@ -21,5 +21,5 @@ class EstateItem(scrapy.Item):
     # property_back = scrapy.Field()
     furniture = scrapy.Field()
     url = scrapy.Field()
-    floornumber =scrapy.Field()
-    price_m2 = scrapy.Field()
+    # floornumber =scrapy.Field()
+    # price_m2 = scrapy.Field()
